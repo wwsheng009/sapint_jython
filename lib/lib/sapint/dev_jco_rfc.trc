@@ -1,0 +1,456 @@
+
+**** Error file opened at 20131115 205535 China Standard Time Rel 3.0.10 (2013-08-08) [720.440]
+Error:  >Fri Nov 15 20:55:35,725<    
+>RfcIoException:
+    message: no message received
+    Return code: RFCIO_ERROR_CANCELLED(23)<
+
+
+Error:  >Fri Nov 15 20:55:35,729<    
+>RfcIoException:
+    message: no message received
+    Return code: RFCIO_ERROR_CANCELLED(23)<
+
+
+Error:  >Fri Nov 15 20:55:35,730<    
+>RfcIoException:
+    message: no message received
+    Return code: RFCIO_ERROR_SYSERROR(5)<
+
+
+Error:  >Fri Nov 15 20:55:35,730<    
+>RfcIoException:
+    message: no message received
+    Return code: RFCIO_ERROR_SYSERROR(5)<
+
+
+Error: [5] >Fri Nov 15 20:55:35,730<    RfcException: [lenovo08912|miniServer]
+    message: no message received
+    Return code: RFC_FAILURE(1)
+    error group: 102
+    key: RFC_ERROR_COMMUNICATION
+Exception raised by lenovo08912|miniServer
+
+Error: [6] >Fri Nov 15 20:55:35,730<    RfcException: [lenovo08912|miniServer]
+    message: no message received
+    Return code: RFC_FAILURE(1)
+    error group: 102
+    key: RFC_ERROR_COMMUNICATION
+Exception raised by lenovo08912|miniServer
+
+
+**** Error file opened at 20131115 215654 China Standard Time Rel 3.0.10 (2013-08-08) [720.440]
+Error:  >Fri Nov 15 21:56:54,009<    
+>RfcIoException:
+    message: CPIC-CALL: SAP_CMACCPTP3 on convId:         
+
+ERROR       connection to partner '202.165.180.207:sapgw07' broken
+TIME        Fri Nov 15 21:56:54 2013
+RELEASE     720
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -6
+MODULE      nixxi.cpp
+LINE        5087
+DETAIL      NiIRead: P=202.165.180.207:3307; L=0.0.0.0:52473
+SYSTEM CALL recv
+ERRNO       10053
+ERRNO TEXT  WSAECONNABORTED: Software caused connection abort
+COUNTER     1
+
+    Return code: RFCIO_ERROR_SYSERROR(5)<
+
+
+Error:  >Fri Nov 15 21:56:54,012<    
+>RfcIoException:
+    message: CPIC-CALL: SAP_CMACCPTP3 on convId:         
+
+ERROR       connection to partner '202.165.180.207:sapgw07' broken
+TIME        Fri Nov 15 21:56:54 2013
+RELEASE     720
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -6
+MODULE      nixxi.cpp
+LINE        5087
+DETAIL      NiIRead: P=202.165.180.207:3307; L=0.0.0.0:52473
+SYSTEM CALL recv
+ERRNO       10053
+ERRNO TEXT  WSAECONNABORTED: Software caused connection abort
+COUNTER     1
+
+    Return code: RFCIO_ERROR_SYSERROR(5)<
+
+
+Error: [2] >Fri Nov 15 21:56:54,012<    RfcException: [lenovo08912|MINISERVER]
+    message: CPIC-CALL: SAP_CMACCPTP3 on convId:         
+
+ERROR       connection to partner '202.165.180.207:sapgw07' broken
+TIME        Fri Nov 15 21:56:54 2013
+RELEASE     720
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -6
+MODULE      nixxi.cpp
+LINE        5087
+DETAIL      NiIRead: P=202.165.180.207:3307; L=0.0.0.0:52473
+SYSTEM CALL recv
+ERRNO       10053
+ERRNO TEXT  WSAECONNABORTED: Software caused connection abort
+COUNTER     1
+
+    Return code: RFC_FAILURE(1)
+    error group: 102
+    key: RFC_ERROR_COMMUNICATION
+Exception raised by lenovo08912|MINISERVER
+
+Error:  >Fri Nov 15 21:57:17,030<    RfcException: [null]
+    message: Connect to SAP gateway failed
+    Connection parameters: TPNAME=miniServer GWHOST=202.165.180.207 GWSERV=sapgw07
+
+ERROR       partner '202.165.180.207:sapgw07' not reached
+TIME        Fri Nov 15 21:57:17 2013
+RELEASE     720
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      nixxi.cpp
+LINE        3286
+DETAIL      NiPConnect2: 202.165.180.207:3307
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     1
+
+    Return code: RFC_FAILURE(1)
+    error group: 102
+    key: RFC_ERROR_COMMUNICATION
+
+Error:  >Fri Nov 15 21:57:39,021<    RfcException: [null]
+    message: Connect to SAP gateway failed
+    Connection parameters: TPNAME=miniServer GWHOST=202.165.180.207 GWSERV=sapgw07
+
+ERROR       partner '202.165.180.207:sapgw07' not reached
+TIME        Fri Nov 15 21:57:39 2013
+RELEASE     720
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      nixxi.cpp
+LINE        3286
+DETAIL      NiPConnect2: 202.165.180.207:3307
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     2
+
+    Return code: RFC_FAILURE(1)
+    error group: 102
+    key: RFC_ERROR_COMMUNICATION
+
+Error:  >Fri Nov 15 21:58:01,014<    RfcException: [null]
+    message: Connect to SAP gateway failed
+    Connection parameters: TPNAME=miniServer GWHOST=202.165.180.207 GWSERV=sapgw07
+
+ERROR       partner '202.165.180.207:sapgw07' not reached
+TIME        Fri Nov 15 21:58:01 2013
+RELEASE     720
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      nixxi.cpp
+LINE        3286
+DETAIL      NiPConnect2: 202.165.180.207:3307
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     3
+
+    Return code: RFC_FAILURE(1)
+    error group: 102
+    key: RFC_ERROR_COMMUNICATION
+
+Error:  >Fri Nov 15 21:58:23,022<    RfcException: [null]
+    message: Connect to SAP gateway failed
+    Connection parameters: TPNAME=miniServer GWHOST=202.165.180.207 GWSERV=sapgw07
+
+ERROR       partner '202.165.180.207:sapgw07' not reached
+TIME        Fri Nov 15 21:58:23 2013
+RELEASE     720
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      nixxi.cpp
+LINE        3286
+DETAIL      NiPConnect2: 202.165.180.207:3307
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     4
+
+    Return code: RFC_FAILURE(1)
+    error group: 102
+    key: RFC_ERROR_COMMUNICATION
+
+Error:  >Fri Nov 15 21:58:45,028<    RfcException: [null]
+    message: Connect to SAP gateway failed
+    Connection parameters: TPNAME=miniServer GWHOST=202.165.180.207 GWSERV=sapgw07
+
+ERROR       partner '202.165.180.207:sapgw07' not reached
+TIME        Fri Nov 15 21:58:45 2013
+RELEASE     720
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      nixxi.cpp
+LINE        3286
+DETAIL      NiPConnect2: 202.165.180.207:3307
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     5
+
+    Return code: RFC_FAILURE(1)
+    error group: 102
+    key: RFC_ERROR_COMMUNICATION
+
+Error:  >Fri Nov 15 21:59:07,029<    RfcException: [null]
+    message: Connect to SAP gateway failed
+    Connection parameters: TPNAME=miniServer GWHOST=202.165.180.207 GWSERV=sapgw07
+
+ERROR       partner '202.165.180.207:sapgw07' not reached
+TIME        Fri Nov 15 21:59:07 2013
+RELEASE     720
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      nixxi.cpp
+LINE        3286
+DETAIL      NiPConnect2: 202.165.180.207:3307
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     6
+
+    Return code: RFC_FAILURE(1)
+    error group: 102
+    key: RFC_ERROR_COMMUNICATION
+
+Error:  >Fri Nov 15 21:59:39,029<    RfcException: [null]
+    message: Connect to SAP gateway failed
+    Connection parameters: TPNAME=miniServer GWHOST=202.165.180.207 GWSERV=sapgw07
+
+ERROR       partner '202.165.180.207:sapgw07' not reached
+TIME        Fri Nov 15 21:59:39 2013
+RELEASE     720
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      nixxi.cpp
+LINE        3286
+DETAIL      NiPConnect2: 202.165.180.207:3307
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     7
+
+    Return code: RFC_FAILURE(1)
+    error group: 102
+    key: RFC_ERROR_COMMUNICATION
+
+Error:  >Fri Nov 15 22:26:18,602<    
+>RfcIoException:
+    message: CPIC-CALL: SAP_CMACCPTP3 on convId:         
+
+ERROR       connection to partner '202.165.180.207:sapgw07' broken
+TIME        Fri Nov 15 22:26:18 2013
+RELEASE     720
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -6
+MODULE      nixxi.cpp
+LINE        5087
+DETAIL      NiIRead: P=202.165.180.207:3307; L=0.0.0.0:53187
+SYSTEM CALL recv
+ERRNO       10053
+ERRNO TEXT  WSAECONNABORTED: Software caused connection abort
+COUNTER     2
+
+    Return code: RFCIO_ERROR_SYSERROR(5)<
+
+
+Error:  >Fri Nov 15 22:26:18,602<    
+>RfcIoException:
+    message: CPIC-CALL: SAP_CMACCPTP3 on convId:         
+
+ERROR       connection to partner '202.165.180.207:sapgw07' broken
+TIME        Fri Nov 15 22:26:18 2013
+RELEASE     720
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -6
+MODULE      nixxi.cpp
+LINE        5087
+DETAIL      NiIRead: P=202.165.180.207:3307; L=0.0.0.0:53187
+SYSTEM CALL recv
+ERRNO       10053
+ERRNO TEXT  WSAECONNABORTED: Software caused connection abort
+COUNTER     2
+
+    Return code: RFCIO_ERROR_SYSERROR(5)<
+
+
+Error: [1] >Fri Nov 15 22:26:18,602<    RfcException: [lenovo08912|miniServer]
+    message: CPIC-CALL: SAP_CMACCPTP3 on convId:         
+
+ERROR       connection to partner '202.165.180.207:sapgw07' broken
+TIME        Fri Nov 15 22:26:18 2013
+RELEASE     720
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -6
+MODULE      nixxi.cpp
+LINE        5087
+DETAIL      NiIRead: P=202.165.180.207:3307; L=0.0.0.0:53187
+SYSTEM CALL recv
+ERRNO       10053
+ERRNO TEXT  WSAECONNABORTED: Software caused connection abort
+COUNTER     2
+
+    Return code: RFC_FAILURE(1)
+    error group: 102
+    key: RFC_ERROR_COMMUNICATION
+Exception raised by lenovo08912|miniServer
+
+Error:  >Fri Nov 15 22:26:41,613<    RfcException: [null]
+    message: Connect to SAP gateway failed
+    Connection parameters: TPNAME=miniServer GWHOST=202.165.180.207 GWSERV=sapgw07
+
+ERROR       partner '202.165.180.207:sapgw07' not reached
+TIME        Fri Nov 15 22:26:41 2013
+RELEASE     720
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      nixxi.cpp
+LINE        3286
+DETAIL      NiPConnect2: 202.165.180.207:3307
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     8
+
+    Return code: RFC_FAILURE(1)
+    error group: 102
+    key: RFC_ERROR_COMMUNICATION
+
+Error:  >Fri Nov 15 22:27:03,617<    RfcException: [null]
+    message: Connect to SAP gateway failed
+    Connection parameters: TPNAME=miniServer GWHOST=202.165.180.207 GWSERV=sapgw07
+
+ERROR       partner '202.165.180.207:sapgw07' not reached
+TIME        Fri Nov 15 22:27:03 2013
+RELEASE     720
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      nixxi.cpp
+LINE        3286
+DETAIL      NiPConnect2: 202.165.180.207:3307
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     9
+
+    Return code: RFC_FAILURE(1)
+    error group: 102
+    key: RFC_ERROR_COMMUNICATION
+
+Error:  >Fri Nov 15 22:27:04,615<    RfcException: [null]
+    message: Connect to SAP gateway failed
+    Connection parameters: TPNAME=miniServer GWHOST=202.165.180.207 GWSERV=sapgw07
+
+ERROR       partner '202.165.180.207:sapgw07' not reached
+TIME        Fri Nov 15 22:27:04 2013
+RELEASE     720
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      nixxi.cpp
+LINE        3286
+DETAIL      NiPConnect2: 202.165.180.207:3307
+SYSTEM CALL connect
+ERRNO       10065
+ERRNO TEXT  WSAEHOSTUNREACH: No route to host
+COUNTER     10
+
+    Return code: RFC_FAILURE(1)
+    error group: 102
+    key: RFC_ERROR_COMMUNICATION
+
+Error:  >Fri Nov 15 22:27:10,616<    RfcException: [null]
+    message: Connect to SAP gateway failed
+    Connection parameters: TPNAME=miniServer GWHOST=202.165.180.207 GWSERV=sapgw07
+
+ERROR       partner '202.165.180.207:sapgw07' not reached
+TIME        Fri Nov 15 22:27:10 2013
+RELEASE     720
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      nixxi.cpp
+LINE        3286
+DETAIL      NiPConnect2: 202.165.180.207:3307
+SYSTEM CALL connect
+ERRNO       10065
+ERRNO TEXT  WSAEHOSTUNREACH: No route to host
+COUNTER     11
+
+    Return code: RFC_FAILURE(1)
+    error group: 102
+    key: RFC_ERROR_COMMUNICATION
+
+Error:  >Fri Nov 15 22:27:20,616<    RfcException: [null]
+    message: Connect to SAP gateway failed
+    Connection parameters: TPNAME=miniServer GWHOST=202.165.180.207 GWSERV=sapgw07
+
+ERROR       partner '202.165.180.207:sapgw07' not reached
+TIME        Fri Nov 15 22:27:20 2013
+RELEASE     720
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      nixxi.cpp
+LINE        3286
+DETAIL      NiPConnect2: 202.165.180.207:3307
+SYSTEM CALL connect
+ERRNO       10065
+ERRNO TEXT  WSAEHOSTUNREACH: No route to host
+COUNTER     12
+
+    Return code: RFC_FAILURE(1)
+    error group: 102
+    key: RFC_ERROR_COMMUNICATION
+
+Error:  >Fri Nov 15 22:27:36,617<    RfcException: [null]
+    message: Connect to SAP gateway failed
+    Connection parameters: TPNAME=miniServer GWHOST=202.165.180.207 GWSERV=sapgw07
+
+ERROR       partner '202.165.180.207:sapgw07' not reached
+TIME        Fri Nov 15 22:27:36 2013
+RELEASE     720
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      nixxi.cpp
+LINE        3286
+DETAIL      NiPConnect2: 202.165.180.207:3307
+SYSTEM CALL connect
+ERRNO       10065
+ERRNO TEXT  WSAEHOSTUNREACH: No route to host
+COUNTER     13
+
+    Return code: RFC_FAILURE(1)
+    error group: 102
+    key: RFC_ERROR_COMMUNICATION
+

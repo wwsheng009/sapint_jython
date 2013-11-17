@@ -1,0 +1,97 @@
+
+**** Error file opened at 20131115 205058 China Standard Time Rel 3.0.10 (2013-08-08) [720.440]
+Error:  >Fri Nov 15 20:50:58,315<    
+>RfcIoException:
+    message: no message received
+    Return code: RFCIO_ERROR_CANCELLED(23)<
+
+
+Error:  >Fri Nov 15 20:50:58,322<    
+>RfcIoException:
+    message: no message received
+    Return code: RFCIO_ERROR_CANCELLED(23)<
+
+
+Error:  >Fri Nov 15 20:50:58,322<    
+>RfcIoException:
+    message: no message received
+    Return code: RFCIO_ERROR_CANCELLED(23)<
+
+
+Error:  >Fri Nov 15 20:50:58,322<    
+>RfcIoException:
+    message: no message received
+    Return code: RFCIO_ERROR_CANCELLED(23)<
+
+
+Error:  >Fri Nov 15 20:50:58,323<    
+>RfcIoException:
+    message: no message received
+    Return code: RFCIO_ERROR_SYSERROR(5)<
+
+
+Error:  >Fri Nov 15 20:50:58,323<    
+>RfcIoException:
+    message: no message received
+    Return code: RFCIO_ERROR_CANCELLED(23)<
+
+
+Error:  >Fri Nov 15 20:50:58,323<    
+>RfcIoException:
+    message: no message received
+    Return code: RFCIO_ERROR_SYSERROR(5)<
+
+
+Error:  >Fri Nov 15 20:50:58,323<    
+>RfcIoException:
+    message: no message received
+    Return code: RFCIO_ERROR_SYSERROR(5)<
+
+
+Error: [6] >Fri Nov 15 20:50:58,323<    RfcException: [lenovo08912|miniServer]
+    message: no message received
+    Return code: RFC_FAILURE(1)
+    error group: 102
+    key: RFC_ERROR_COMMUNICATION
+Exception raised by lenovo08912|miniServer
+
+Error:  >Fri Nov 15 20:50:58,323<    
+>RfcIoException:
+    message: no message received
+    Return code: RFCIO_ERROR_SYSERROR(5)<
+
+
+Error: [3] >Fri Nov 15 20:50:58,323<    RfcException: [lenovo08912|miniServer]
+    message: no message received
+    Return code: RFC_FAILURE(1)
+    error group: 102
+    key: RFC_ERROR_COMMUNICATION
+Exception raised by lenovo08912|miniServer
+
+Error:  >Fri Nov 15 20:50:58,323<    
+>RfcIoException:
+    message: no message received
+    Return code: RFCIO_ERROR_SYSERROR(5)<
+
+
+Error: [2] >Fri Nov 15 20:50:58,323<    RfcException: [lenovo08912|miniServer]
+    message: no message received
+    Return code: RFC_FAILURE(1)
+    error group: 102
+    key: RFC_ERROR_COMMUNICATION
+Exception raised by lenovo08912|miniServer
+
+Error: [4] >Fri Nov 15 20:50:58,324<    RfcException: [lenovo08912|miniServer]
+    message: no message received
+    Return code: RFC_FAILURE(1)
+    error group: 102
+    key: RFC_ERROR_COMMUNICATION
+Exception raised by lenovo08912|miniServer
+
+Error: [5] >Fri Nov 15 20:50:58,324<    RfcException: [lenovo08912|miniServer]
+    message: no message received
+    Return code: RFC_FAILURE(1)
+    error group: 102
+    key: RFC_ERROR_COMMUNICATION
+Exception raised by lenovo08912|miniServer
+

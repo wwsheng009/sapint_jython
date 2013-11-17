@@ -1,0 +1,35 @@
+
+**** Error file opened at 20131113 220043 China Standard Time Rel 3.0.10 (2013-08-08) [720.440]
+Error:  >Wed Nov 13 22:00:43,041<    RfcException: [null]
+    message: Connect to SAP gateway failed
+Connection parameters: TYPE=A DEST=AIP ASHOST=202.165.180.207 SYSNR=07 PCS=1
+
+LOCATION    CPIC (TCP/IP) on local host with Unicode
+ERROR       partner '202.165.180.207:3307' not reached
+TIME        Wed Nov 13 22:00:43 2013
+RELEASE     720
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      nixxi.cpp
+LINE        3286
+DETAIL      NiPConnect2: 202.165.180.207:3307
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     2
+
+    Return code: RFC_FAILURE(1)
+    error group: 102
+    key: RFC_ERROR_COMMUNICATION
+
+
+**** Error file opened at 20131114 092014 China Standard Time Rel 3.0.10 (2013-08-08) [720.440]
+Error:  >Thu Nov 14 09:20:14,903<    >RfcGetException rc (7) message: A dynamically specified column name is unknown.
+<RfcGetException
+
+
+**** Error file opened at 20131114 144046 China Standard Time Rel 3.0.10 (2013-08-08) [720.440]
+Error:  >Thu Nov 14 14:40:46,431<    >RfcGetException rc (7) message: A dynamically specified column name is unknown.
+<RfcGetException
+

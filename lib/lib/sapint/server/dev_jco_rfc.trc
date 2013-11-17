@@ -1,0 +1,2707 @@
+
+**** Error file opened at 20131115 172752 China Standard Time Rel 3.0.10 (2013-08-08) [720.440]
+Error:  >Fri Nov 15 17:27:52,893<    
+>RfcIoException:
+    message: CPIC-CALL: SAP_CMACCPTP3 on convId:         
+
+ERROR       connection to partner '192.168.100.90:sapgw00' broken
+TIME        Fri Nov 15 17:27:52 2013
+RELEASE     720
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -6
+MODULE      nixxi.cpp
+LINE        5087
+DETAIL      NiIRead: P=192.168.100.90:3300; L=0.0.0.0:51145
+SYSTEM CALL recv
+ERRNO       10053
+ERRNO TEXT  WSAECONNABORTED: Software caused connection abort
+COUNTER     1
+
+    Return code: RFCIO_ERROR_SYSERROR(5)<
+
+
+Error:  >Fri Nov 15 17:27:52,897<    
+>RfcIoException:
+    message: CPIC-CALL: SAP_CMACCPTP3 on convId:         
+
+ERROR       connection to partner '192.168.100.90:sapgw00' broken
+TIME        Fri Nov 15 17:27:52 2013
+RELEASE     720
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -6
+MODULE      nixxi.cpp
+LINE        5087
+DETAIL      NiIRead: P=192.168.100.90:3300; L=0.0.0.0:51146
+SYSTEM CALL recv
+ERRNO       10053
+ERRNO TEXT  WSAECONNABORTED: Software caused connection abort
+COUNTER     1
+
+    Return code: RFCIO_ERROR_SYSERROR(5)<
+
+
+Error:  >Fri Nov 15 17:27:52,898<    
+>RfcIoException:
+    message: CPIC-CALL: SAP_CMACCPTP3 on convId:         
+
+ERROR       connection to partner '192.168.100.90:sapgw00' broken
+TIME        Fri Nov 15 17:27:52 2013
+RELEASE     720
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -6
+MODULE      nixxi.cpp
+LINE        5087
+DETAIL      NiIRead: P=192.168.100.90:3300; L=0.0.0.0:51146
+SYSTEM CALL recv
+ERRNO       10053
+ERRNO TEXT  WSAECONNABORTED: Software caused connection abort
+COUNTER     1
+
+    Return code: RFCIO_ERROR_SYSERROR(5)<
+
+
+Error: [4] >Fri Nov 15 17:27:52,898<    RfcException: [lenovo08912|miniServer]
+    message: CPIC-CALL: SAP_CMACCPTP3 on convId:         
+
+ERROR       connection to partner '192.168.100.90:sapgw00' broken
+TIME        Fri Nov 15 17:27:52 2013
+RELEASE     720
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -6
+MODULE      nixxi.cpp
+LINE        5087
+DETAIL      NiIRead: P=192.168.100.90:3300; L=0.0.0.0:51146
+SYSTEM CALL recv
+ERRNO       10053
+ERRNO TEXT  WSAECONNABORTED: Software caused connection abort
+COUNTER     1
+
+    Return code: RFC_FAILURE(1)
+    error group: 102
+    key: RFC_ERROR_COMMUNICATION
+Exception raised by lenovo08912|miniServer
+
+Error:  >Fri Nov 15 17:27:52,898<    
+>RfcIoException:
+    message: CPIC-CALL: SAP_CMACCPTP3 on convId:         
+
+ERROR       connection to partner '192.168.100.90:sapgw00' broken
+TIME        Fri Nov 15 17:27:52 2013
+RELEASE     720
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -6
+MODULE      nixxi.cpp
+LINE        5087
+DETAIL      NiIRead: P=192.168.100.90:3300; L=0.0.0.0:51145
+SYSTEM CALL recv
+ERRNO       10053
+ERRNO TEXT  WSAECONNABORTED: Software caused connection abort
+COUNTER     1
+
+    Return code: RFCIO_ERROR_SYSERROR(5)<
+
+
+Error: [3] >Fri Nov 15 17:27:52,898<    RfcException: [lenovo08912|miniServer]
+    message: CPIC-CALL: SAP_CMACCPTP3 on convId:         
+
+ERROR       connection to partner '192.168.100.90:sapgw00' broken
+TIME        Fri Nov 15 17:27:52 2013
+RELEASE     720
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -6
+MODULE      nixxi.cpp
+LINE        5087
+DETAIL      NiIRead: P=192.168.100.90:3300; L=0.0.0.0:51145
+SYSTEM CALL recv
+ERRNO       10053
+ERRNO TEXT  WSAECONNABORTED: Software caused connection abort
+COUNTER     1
+
+    Return code: RFC_FAILURE(1)
+    error group: 102
+    key: RFC_ERROR_COMMUNICATION
+Exception raised by lenovo08912|miniServer
+
+Error:  >Fri Nov 15 17:27:52,898<    
+>RfcIoException:
+    message: CPIC-CALL: SAP_CMACCPTP3 on convId:         
+
+ERROR       connection to partner '192.168.100.90:sapgw00' broken
+TIME        Fri Nov 15 17:27:52 2013
+RELEASE     720
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -6
+MODULE      nixxi.cpp
+LINE        5087
+DETAIL      NiIRead: P=192.168.100.90:3300; L=0.0.0.0:51147
+SYSTEM CALL recv
+ERRNO       10053
+ERRNO TEXT  WSAECONNABORTED: Software caused connection abort
+COUNTER     2
+
+    Return code: RFCIO_ERROR_SYSERROR(5)<
+
+
+Error:  >Fri Nov 15 17:27:52,898<    
+>RfcIoException:
+    message: CPIC-CALL: SAP_CMACCPTP3 on convId:         
+
+ERROR       connection to partner '192.168.100.90:sapgw00' broken
+TIME        Fri Nov 15 17:27:52 2013
+RELEASE     720
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -6
+MODULE      nixxi.cpp
+LINE        5087
+DETAIL      NiIRead: P=192.168.100.90:3300; L=0.0.0.0:51148
+SYSTEM CALL recv
+ERRNO       10053
+ERRNO TEXT  WSAECONNABORTED: Software caused connection abort
+COUNTER     2
+
+    Return code: RFCIO_ERROR_SYSERROR(5)<
+
+
+Error:  >Fri Nov 15 17:27:52,899<    
+>RfcIoException:
+    message: CPIC-CALL: SAP_CMACCPTP3 on convId:         
+
+ERROR       connection to partner '192.168.100.90:sapgw00' broken
+TIME        Fri Nov 15 17:27:52 2013
+RELEASE     720
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -6
+MODULE      nixxi.cpp
+LINE        5087
+DETAIL      NiIRead: P=192.168.100.90:3300; L=0.0.0.0:51148
+SYSTEM CALL recv
+ERRNO       10053
+ERRNO TEXT  WSAECONNABORTED: Software caused connection abort
+COUNTER     2
+
+    Return code: RFCIO_ERROR_SYSERROR(5)<
+
+
+Error: [6] >Fri Nov 15 17:27:52,899<    RfcException: [lenovo08912|miniServer]
+    message: CPIC-CALL: SAP_CMACCPTP3 on convId:         
+
+ERROR       connection to partner '192.168.100.90:sapgw00' broken
+TIME        Fri Nov 15 17:27:52 2013
+RELEASE     720
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -6
+MODULE      nixxi.cpp
+LINE        5087
+DETAIL      NiIRead: P=192.168.100.90:3300; L=0.0.0.0:51148
+SYSTEM CALL recv
+ERRNO       10053
+ERRNO TEXT  WSAECONNABORTED: Software caused connection abort
+COUNTER     2
+
+    Return code: RFC_FAILURE(1)
+    error group: 102
+    key: RFC_ERROR_COMMUNICATION
+Exception raised by lenovo08912|miniServer
+
+Error:  >Fri Nov 15 17:27:52,899<    
+>RfcIoException:
+    message: CPIC-CALL: SAP_CMACCPTP3 on convId:         
+
+ERROR       connection to partner '192.168.100.90:sapgw00' broken
+TIME        Fri Nov 15 17:27:52 2013
+RELEASE     720
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -6
+MODULE      nixxi.cpp
+LINE        5087
+DETAIL      NiIRead: P=192.168.100.90:3300; L=0.0.0.0:51144
+SYSTEM CALL recv
+ERRNO       10053
+ERRNO TEXT  WSAECONNABORTED: Software caused connection abort
+COUNTER     3
+
+    Return code: RFCIO_ERROR_SYSERROR(5)<
+
+
+Error:  >Fri Nov 15 17:27:52,899<    
+>RfcIoException:
+    message: CPIC-CALL: SAP_CMACCPTP3 on convId:         
+
+ERROR       connection to partner '192.168.100.90:sapgw00' broken
+TIME        Fri Nov 15 17:27:52 2013
+RELEASE     720
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -6
+MODULE      nixxi.cpp
+LINE        5087
+DETAIL      NiIRead: P=192.168.100.90:3300; L=0.0.0.0:51144
+SYSTEM CALL recv
+ERRNO       10053
+ERRNO TEXT  WSAECONNABORTED: Software caused connection abort
+COUNTER     3
+
+    Return code: RFCIO_ERROR_SYSERROR(5)<
+
+
+Error: [2] >Fri Nov 15 17:27:52,899<    RfcException: [lenovo08912|miniServer]
+    message: CPIC-CALL: SAP_CMACCPTP3 on convId:         
+
+ERROR       connection to partner '192.168.100.90:sapgw00' broken
+TIME        Fri Nov 15 17:27:52 2013
+RELEASE     720
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -6
+MODULE      nixxi.cpp
+LINE        5087
+DETAIL      NiIRead: P=192.168.100.90:3300; L=0.0.0.0:51144
+SYSTEM CALL recv
+ERRNO       10053
+ERRNO TEXT  WSAECONNABORTED: Software caused connection abort
+COUNTER     3
+
+    Return code: RFC_FAILURE(1)
+    error group: 102
+    key: RFC_ERROR_COMMUNICATION
+Exception raised by lenovo08912|miniServer
+
+Error:  >Fri Nov 15 17:27:52,899<    
+>RfcIoException:
+    message: CPIC-CALL: SAP_CMACCPTP3 on convId:         
+
+ERROR       connection to partner '192.168.100.90:sapgw00' broken
+TIME        Fri Nov 15 17:27:52 2013
+RELEASE     720
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -6
+MODULE      nixxi.cpp
+LINE        5087
+DETAIL      NiIRead: P=192.168.100.90:3300; L=0.0.0.0:51147
+SYSTEM CALL recv
+ERRNO       10053
+ERRNO TEXT  WSAECONNABORTED: Software caused connection abort
+COUNTER     2
+
+    Return code: RFCIO_ERROR_SYSERROR(5)<
+
+
+Error: [5] >Fri Nov 15 17:27:52,899<    RfcException: [lenovo08912|miniServer]
+    message: CPIC-CALL: SAP_CMACCPTP3 on convId:         
+
+ERROR       connection to partner '192.168.100.90:sapgw00' broken
+TIME        Fri Nov 15 17:27:52 2013
+RELEASE     720
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -6
+MODULE      nixxi.cpp
+LINE        5087
+DETAIL      NiIRead: P=192.168.100.90:3300; L=0.0.0.0:51147
+SYSTEM CALL recv
+ERRNO       10053
+ERRNO TEXT  WSAECONNABORTED: Software caused connection abort
+COUNTER     2
+
+    Return code: RFC_FAILURE(1)
+    error group: 102
+    key: RFC_ERROR_COMMUNICATION
+Exception raised by lenovo08912|miniServer
+
+Error:  >Fri Nov 15 17:28:13,906<    RfcException: [null]
+    message: Connect to SAP gateway failed
+    Connection parameters: TPNAME=miniServer GWHOST=192.168.100.90 GWSERV=sapgw00
+
+ERROR       partner '192.168.100.90:sapgw00' not reached
+TIME        Fri Nov 15 17:28:13 2013
+RELEASE     720
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      nixxi.cpp
+LINE        3286
+DETAIL      NiPConnect2: 192.168.100.90:3300
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     1
+
+    Return code: RFC_FAILURE(1)
+    error group: 102
+    key: RFC_ERROR_COMMUNICATION
+
+
+**** Error file opened at 20131115 172821 China Standard Time Rel 3.0.10 (2013-08-08) [720.440]
+Error:  >Fri Nov 15 17:28:21,842<    
+>RfcIoException:
+    message: CPIC-CALL: SAP_CMACCPTP3 on convId:         
+
+ERROR       connection to partner '192.168.100.90:sapgw00' broken
+TIME        Fri Nov 15 17:28:21 2013
+RELEASE     720
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -6
+MODULE      nixxi.cpp
+LINE        5087
+DETAIL      NiIRead: P=192.168.100.90:3300; L=0.0.0.0:51025
+SYSTEM CALL recv
+ERRNO       10053
+ERRNO TEXT  WSAECONNABORTED: Software caused connection abort
+COUNTER     1
+
+    Return code: RFCIO_ERROR_SYSERROR(5)<
+
+
+Error:  >Fri Nov 15 17:28:21,847<    
+>RfcIoException:
+    message: CPIC-CALL: SAP_CMACCPTP3 on convId:         
+
+ERROR       connection to partner '192.168.100.90:sapgw00' broken
+TIME        Fri Nov 15 17:28:21 2013
+RELEASE     720
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -6
+MODULE      nixxi.cpp
+LINE        5087
+DETAIL      NiIRead: P=192.168.100.90:3300; L=0.0.0.0:51021
+SYSTEM CALL recv
+ERRNO       10053
+ERRNO TEXT  WSAECONNABORTED: Software caused connection abort
+COUNTER     1
+
+    Return code: RFCIO_ERROR_SYSERROR(5)<
+
+
+Error:  >Fri Nov 15 17:28:21,847<    
+>RfcIoException:
+    message: CPIC-CALL: SAP_CMACCPTP3 on convId:         
+
+ERROR       connection to partner '192.168.100.90:sapgw00' broken
+TIME        Fri Nov 15 17:28:21 2013
+RELEASE     720
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -6
+MODULE      nixxi.cpp
+LINE        5087
+DETAIL      NiIRead: P=192.168.100.90:3300; L=0.0.0.0:51025
+SYSTEM CALL recv
+ERRNO       10053
+ERRNO TEXT  WSAECONNABORTED: Software caused connection abort
+COUNTER     1
+
+    Return code: RFCIO_ERROR_SYSERROR(5)<
+
+
+Error:  >Fri Nov 15 17:28:21,847<    
+>RfcIoException:
+    message: CPIC-CALL: SAP_CMACCPTP3 on convId:         
+
+ERROR       connection to partner '192.168.100.90:sapgw00' broken
+TIME        Fri Nov 15 17:28:21 2013
+RELEASE     720
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -6
+MODULE      nixxi.cpp
+LINE        5087
+DETAIL      NiIRead: P=192.168.100.90:3300; L=0.0.0.0:51021
+SYSTEM CALL recv
+ERRNO       10053
+ERRNO TEXT  WSAECONNABORTED: Software caused connection abort
+COUNTER     1
+
+    Return code: RFCIO_ERROR_SYSERROR(5)<
+
+
+Error: [2] >Fri Nov 15 17:28:21,848<    RfcException: [lenovo08912|miniServer]
+    message: CPIC-CALL: SAP_CMACCPTP3 on convId:         
+
+ERROR       connection to partner '192.168.100.90:sapgw00' broken
+TIME        Fri Nov 15 17:28:21 2013
+RELEASE     720
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -6
+MODULE      nixxi.cpp
+LINE        5087
+DETAIL      NiIRead: P=192.168.100.90:3300; L=0.0.0.0:51021
+SYSTEM CALL recv
+ERRNO       10053
+ERRNO TEXT  WSAECONNABORTED: Software caused connection abort
+COUNTER     1
+
+    Return code: RFC_FAILURE(1)
+    error group: 102
+    key: RFC_ERROR_COMMUNICATION
+Exception raised by lenovo08912|miniServer
+
+Error: [6] >Fri Nov 15 17:28:21,848<    RfcException: [lenovo08912|miniServer]
+    message: CPIC-CALL: SAP_CMACCPTP3 on convId:         
+
+ERROR       connection to partner '192.168.100.90:sapgw00' broken
+TIME        Fri Nov 15 17:28:21 2013
+RELEASE     720
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -6
+MODULE      nixxi.cpp
+LINE        5087
+DETAIL      NiIRead: P=192.168.100.90:3300; L=0.0.0.0:51025
+SYSTEM CALL recv
+ERRNO       10053
+ERRNO TEXT  WSAECONNABORTED: Software caused connection abort
+COUNTER     1
+
+    Return code: RFC_FAILURE(1)
+    error group: 102
+    key: RFC_ERROR_COMMUNICATION
+Exception raised by lenovo08912|miniServer
+
+Error:  >Fri Nov 15 17:28:35,904<    RfcException: [null]
+    message: Connect to SAP gateway failed
+    Connection parameters: TPNAME=miniServer GWHOST=192.168.100.90 GWSERV=sapgw00
+
+ERROR       partner '192.168.100.90:sapgw00' not reached
+TIME        Fri Nov 15 17:28:35 2013
+RELEASE     720
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      nixxi.cpp
+LINE        3286
+DETAIL      NiPConnect2: 192.168.100.90:3300
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     2
+
+    Return code: RFC_FAILURE(1)
+    error group: 102
+    key: RFC_ERROR_COMMUNICATION
+
+Error:  >Fri Nov 15 17:28:39,850<    
+>RfcIoException:
+    message: CPIC-CALL: SAP_CMACCPTP3 on convId:         
+
+ERROR       connection to partner '192.168.100.90:sapgw00' broken
+TIME        Fri Nov 15 17:28:39 2013
+RELEASE     720
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -6
+MODULE      nixxi.cpp
+LINE        5087
+DETAIL      NiIRead: P=192.168.100.90:3300; L=0.0.0.0:51024
+SYSTEM CALL recv
+ERRNO       10053
+ERRNO TEXT  WSAECONNABORTED: Software caused connection abort
+COUNTER     1
+
+    Return code: RFCIO_ERROR_SYSERROR(5)<
+
+
+Error:  >Fri Nov 15 17:28:39,850<    
+>RfcIoException:
+    message: CPIC-CALL: SAP_CMACCPTP3 on convId:         
+
+ERROR       connection to partner '192.168.100.90:sapgw00' broken
+TIME        Fri Nov 15 17:28:39 2013
+RELEASE     720
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -6
+MODULE      nixxi.cpp
+LINE        5087
+DETAIL      NiIRead: P=192.168.100.90:3300; L=0.0.0.0:51024
+SYSTEM CALL recv
+ERRNO       10053
+ERRNO TEXT  WSAECONNABORTED: Software caused connection abort
+COUNTER     1
+
+    Return code: RFCIO_ERROR_SYSERROR(5)<
+
+
+Error: [5] >Fri Nov 15 17:28:39,850<    RfcException: [lenovo08912|MINISERVER]
+    message: CPIC-CALL: SAP_CMACCPTP3 on convId:         
+
+ERROR       connection to partner '192.168.100.90:sapgw00' broken
+TIME        Fri Nov 15 17:28:39 2013
+RELEASE     720
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -6
+MODULE      nixxi.cpp
+LINE        5087
+DETAIL      NiIRead: P=192.168.100.90:3300; L=0.0.0.0:51024
+SYSTEM CALL recv
+ERRNO       10053
+ERRNO TEXT  WSAECONNABORTED: Software caused connection abort
+COUNTER     1
+
+    Return code: RFC_FAILURE(1)
+    error group: 102
+    key: RFC_ERROR_COMMUNICATION
+Exception raised by lenovo08912|MINISERVER
+
+
+**** Error file opened at 20131115 172844 China Standard Time Rel 3.0.10 (2013-08-08) [720.440]
+Error:  >Fri Nov 15 17:28:44,331<    
+>RfcIoException:
+    message: CPIC-CALL: SAP_CMACCPTP3 on convId:         
+
+ERROR       connection to partner '192.168.100.90:sapgw00' broken
+TIME        Fri Nov 15 17:28:44 2013
+RELEASE     720
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -6
+MODULE      nixxi.cpp
+LINE        5087
+DETAIL      NiIRead: P=192.168.100.90:3300; L=0.0.0.0:51171
+SYSTEM CALL recv
+ERRNO       10053
+ERRNO TEXT  WSAECONNABORTED: Software caused connection abort
+COUNTER     1
+
+    Return code: RFCIO_ERROR_SYSERROR(5)<
+
+
+Error:  >Fri Nov 15 17:28:44,334<    
+>RfcIoException:
+    message: CPIC-CALL: SAP_CMACCPTP3 on convId:         
+
+ERROR       connection to partner '192.168.100.90:sapgw00' broken
+TIME        Fri Nov 15 17:28:44 2013
+RELEASE     720
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -6
+MODULE      nixxi.cpp
+LINE        5087
+DETAIL      NiIRead: P=192.168.100.90:3300; L=0.0.0.0:51170
+SYSTEM CALL recv
+ERRNO       10053
+ERRNO TEXT  WSAECONNABORTED: Software caused connection abort
+COUNTER     1
+
+    Return code: RFCIO_ERROR_SYSERROR(5)<
+
+
+Error:  >Fri Nov 15 17:28:44,334<    
+>RfcIoException:
+    message: CPIC-CALL: SAP_CMACCPTP3 on convId:         
+
+ERROR       connection to partner '192.168.100.90:sapgw00' broken
+TIME        Fri Nov 15 17:28:44 2013
+RELEASE     720
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -6
+MODULE      nixxi.cpp
+LINE        5087
+DETAIL      NiIRead: P=192.168.100.90:3300; L=0.0.0.0:51167
+SYSTEM CALL recv
+ERRNO       10053
+ERRNO TEXT  WSAECONNABORTED: Software caused connection abort
+COUNTER     1
+
+    Return code: RFCIO_ERROR_SYSERROR(5)<
+
+
+Error:  >Fri Nov 15 17:28:44,335<    
+>RfcIoException:
+    message: CPIC-CALL: SAP_CMACCPTP3 on convId:         
+
+ERROR       connection to partner '192.168.100.90:sapgw00' broken
+TIME        Fri Nov 15 17:28:44 2013
+RELEASE     720
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -6
+MODULE      nixxi.cpp
+LINE        5087
+DETAIL      NiIRead: P=192.168.100.90:3300; L=0.0.0.0:51167
+SYSTEM CALL recv
+ERRNO       10053
+ERRNO TEXT  WSAECONNABORTED: Software caused connection abort
+COUNTER     1
+
+    Return code: RFCIO_ERROR_SYSERROR(5)<
+
+
+Error:  >Fri Nov 15 17:28:44,335<    
+>RfcIoException:
+    message: CPIC-CALL: SAP_CMACCPTP3 on convId:         
+
+ERROR       connection to partner '192.168.100.90:sapgw00' broken
+TIME        Fri Nov 15 17:28:44 2013
+RELEASE     720
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -6
+MODULE      nixxi.cpp
+LINE        5087
+DETAIL      NiIRead: P=192.168.100.90:3300; L=0.0.0.0:51169
+SYSTEM CALL recv
+ERRNO       10053
+ERRNO TEXT  WSAECONNABORTED: Software caused connection abort
+COUNTER     1
+
+    Return code: RFCIO_ERROR_SYSERROR(5)<
+
+
+Error: [2] >Fri Nov 15 17:28:44,335<    RfcException: [lenovo08912|miniServer]
+    message: CPIC-CALL: SAP_CMACCPTP3 on convId:         
+
+ERROR       connection to partner '192.168.100.90:sapgw00' broken
+TIME        Fri Nov 15 17:28:44 2013
+RELEASE     720
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -6
+MODULE      nixxi.cpp
+LINE        5087
+DETAIL      NiIRead: P=192.168.100.90:3300; L=0.0.0.0:51167
+SYSTEM CALL recv
+ERRNO       10053
+ERRNO TEXT  WSAECONNABORTED: Software caused connection abort
+COUNTER     1
+
+    Return code: RFC_FAILURE(1)
+    error group: 102
+    key: RFC_ERROR_COMMUNICATION
+Exception raised by lenovo08912|miniServer
+
+Error:  >Fri Nov 15 17:28:44,335<    
+>RfcIoException:
+    message: CPIC-CALL: SAP_CMACCPTP3 on convId:         
+
+ERROR       connection to partner '192.168.100.90:sapgw00' broken
+TIME        Fri Nov 15 17:28:44 2013
+RELEASE     720
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -6
+MODULE      nixxi.cpp
+LINE        5087
+DETAIL      NiIRead: P=192.168.100.90:3300; L=0.0.0.0:51170
+SYSTEM CALL recv
+ERRNO       10053
+ERRNO TEXT  WSAECONNABORTED: Software caused connection abort
+COUNTER     1
+
+    Return code: RFCIO_ERROR_SYSERROR(5)<
+
+
+Error:  >Fri Nov 15 17:28:44,335<    
+>RfcIoException:
+    message: CPIC-CALL: SAP_CMACCPTP3 on convId:         
+
+ERROR       connection to partner '192.168.100.90:sapgw00' broken
+TIME        Fri Nov 15 17:28:44 2013
+RELEASE     720
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -6
+MODULE      nixxi.cpp
+LINE        5087
+DETAIL      NiIRead: P=192.168.100.90:3300; L=0.0.0.0:51171
+SYSTEM CALL recv
+ERRNO       10053
+ERRNO TEXT  WSAECONNABORTED: Software caused connection abort
+COUNTER     1
+
+    Return code: RFCIO_ERROR_SYSERROR(5)<
+
+
+Error: [5] >Fri Nov 15 17:28:44,335<    RfcException: [lenovo08912|miniServer]
+    message: CPIC-CALL: SAP_CMACCPTP3 on convId:         
+
+ERROR       connection to partner '192.168.100.90:sapgw00' broken
+TIME        Fri Nov 15 17:28:44 2013
+RELEASE     720
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -6
+MODULE      nixxi.cpp
+LINE        5087
+DETAIL      NiIRead: P=192.168.100.90:3300; L=0.0.0.0:51170
+SYSTEM CALL recv
+ERRNO       10053
+ERRNO TEXT  WSAECONNABORTED: Software caused connection abort
+COUNTER     1
+
+    Return code: RFC_FAILURE(1)
+    error group: 102
+    key: RFC_ERROR_COMMUNICATION
+Exception raised by lenovo08912|miniServer
+
+Error:  >Fri Nov 15 17:28:44,335<    
+>RfcIoException:
+    message: CPIC-CALL: SAP_CMACCPTP3 on convId:         
+
+ERROR       connection to partner '192.168.100.90:sapgw00' broken
+TIME        Fri Nov 15 17:28:44 2013
+RELEASE     720
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -6
+MODULE      nixxi.cpp
+LINE        5087
+DETAIL      NiIRead: P=192.168.100.90:3300; L=0.0.0.0:51169
+SYSTEM CALL recv
+ERRNO       10053
+ERRNO TEXT  WSAECONNABORTED: Software caused connection abort
+COUNTER     1
+
+    Return code: RFCIO_ERROR_SYSERROR(5)<
+
+
+Error: [6] >Fri Nov 15 17:28:44,335<    RfcException: [lenovo08912|miniServer]
+    message: CPIC-CALL: SAP_CMACCPTP3 on convId:         
+
+ERROR       connection to partner '192.168.100.90:sapgw00' broken
+TIME        Fri Nov 15 17:28:44 2013
+RELEASE     720
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -6
+MODULE      nixxi.cpp
+LINE        5087
+DETAIL      NiIRead: P=192.168.100.90:3300; L=0.0.0.0:51171
+SYSTEM CALL recv
+ERRNO       10053
+ERRNO TEXT  WSAECONNABORTED: Software caused connection abort
+COUNTER     1
+
+    Return code: RFC_FAILURE(1)
+    error group: 102
+    key: RFC_ERROR_COMMUNICATION
+Exception raised by lenovo08912|miniServer
+
+Error: [4] >Fri Nov 15 17:28:44,335<    RfcException: [lenovo08912|miniServer]
+    message: CPIC-CALL: SAP_CMACCPTP3 on convId:         
+
+ERROR       connection to partner '192.168.100.90:sapgw00' broken
+TIME        Fri Nov 15 17:28:44 2013
+RELEASE     720
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -6
+MODULE      nixxi.cpp
+LINE        5087
+DETAIL      NiIRead: P=192.168.100.90:3300; L=0.0.0.0:51169
+SYSTEM CALL recv
+ERRNO       10053
+ERRNO TEXT  WSAECONNABORTED: Software caused connection abort
+COUNTER     1
+
+    Return code: RFC_FAILURE(1)
+    error group: 102
+    key: RFC_ERROR_COMMUNICATION
+Exception raised by lenovo08912|miniServer
+
+Error:  >Fri Nov 15 17:28:44,336<    
+>RfcIoException:
+    message: CPIC-CALL: SAP_CMACCPTP3 on convId:         
+
+ERROR       connection to partner '192.168.100.90:sapgw00' broken
+TIME        Fri Nov 15 17:28:44 2013
+RELEASE     720
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -6
+MODULE      nixxi.cpp
+LINE        5087
+DETAIL      NiIRead: P=192.168.100.90:3300; L=0.0.0.0:51168
+SYSTEM CALL recv
+ERRNO       10053
+ERRNO TEXT  WSAECONNABORTED: Software caused connection abort
+COUNTER     1
+
+    Return code: RFCIO_ERROR_SYSERROR(5)<
+
+
+Error:  >Fri Nov 15 17:28:44,336<    
+>RfcIoException:
+    message: CPIC-CALL: SAP_CMACCPTP3 on convId:         
+
+ERROR       connection to partner '192.168.100.90:sapgw00' broken
+TIME        Fri Nov 15 17:28:44 2013
+RELEASE     720
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -6
+MODULE      nixxi.cpp
+LINE        5087
+DETAIL      NiIRead: P=192.168.100.90:3300; L=0.0.0.0:51168
+SYSTEM CALL recv
+ERRNO       10053
+ERRNO TEXT  WSAECONNABORTED: Software caused connection abort
+COUNTER     1
+
+    Return code: RFCIO_ERROR_SYSERROR(5)<
+
+
+Error: [3] >Fri Nov 15 17:28:44,337<    RfcException: [lenovo08912|miniServer]
+    message: CPIC-CALL: SAP_CMACCPTP3 on convId:         
+
+ERROR       connection to partner '192.168.100.90:sapgw00' broken
+TIME        Fri Nov 15 17:28:44 2013
+RELEASE     720
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -6
+MODULE      nixxi.cpp
+LINE        5087
+DETAIL      NiIRead: P=192.168.100.90:3300; L=0.0.0.0:51168
+SYSTEM CALL recv
+ERRNO       10053
+ERRNO TEXT  WSAECONNABORTED: Software caused connection abort
+COUNTER     1
+
+    Return code: RFC_FAILURE(1)
+    error group: 102
+    key: RFC_ERROR_COMMUNICATION
+Exception raised by lenovo08912|miniServer
+
+Error:  >Fri Nov 15 17:28:44,844<    RfcException: [null]
+    message: Connect to SAP gateway failed
+    Connection parameters: TPNAME=miniServer GWHOST=192.168.100.90 GWSERV=sapgw00
+
+ERROR       partner '192.168.100.90:sapgw00' not reached
+TIME        Fri Nov 15 17:28:44 2013
+RELEASE     720
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      nixxi.cpp
+LINE        3286
+DETAIL      NiPConnect2: 192.168.100.90:3300
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     1
+
+    Return code: RFC_FAILURE(1)
+    error group: 102
+    key: RFC_ERROR_COMMUNICATION
+
+Error:  >Fri Nov 15 17:28:54,749<    
+>RfcIoException:
+    message: CPIC-CALL: SAP_CMACCPTP3 on convId:         
+
+ERROR       connection to partner '192.168.100.90:sapgw00' broken
+TIME        Fri Nov 15 17:28:54 2013
+RELEASE     720
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -6
+MODULE      nixxi.cpp
+LINE        5087
+DETAIL      NiIRead: P=192.168.100.90:3300; L=0.0.0.0:51022
+SYSTEM CALL recv
+ERRNO       10053
+ERRNO TEXT  WSAECONNABORTED: Software caused connection abort
+COUNTER     2
+
+    Return code: RFCIO_ERROR_SYSERROR(5)<
+
+
+Error:  >Fri Nov 15 17:28:54,749<    
+>RfcIoException:
+    message: CPIC-CALL: SAP_CMACCPTP3 on convId:         
+
+ERROR       connection to partner '192.168.100.90:sapgw00' broken
+TIME        Fri Nov 15 17:28:54 2013
+RELEASE     720
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -6
+MODULE      nixxi.cpp
+LINE        5087
+DETAIL      NiIRead: P=192.168.100.90:3300; L=0.0.0.0:51022
+SYSTEM CALL recv
+ERRNO       10053
+ERRNO TEXT  WSAECONNABORTED: Software caused connection abort
+COUNTER     2
+
+    Return code: RFCIO_ERROR_SYSERROR(5)<
+
+
+Error: [3] >Fri Nov 15 17:28:54,749<    RfcException: [lenovo08912|MINISERVER]
+    message: CPIC-CALL: SAP_CMACCPTP3 on convId:         
+
+ERROR       connection to partner '192.168.100.90:sapgw00' broken
+TIME        Fri Nov 15 17:28:54 2013
+RELEASE     720
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -6
+MODULE      nixxi.cpp
+LINE        5087
+DETAIL      NiIRead: P=192.168.100.90:3300; L=0.0.0.0:51022
+SYSTEM CALL recv
+ERRNO       10053
+ERRNO TEXT  WSAECONNABORTED: Software caused connection abort
+COUNTER     2
+
+    Return code: RFC_FAILURE(1)
+    error group: 102
+    key: RFC_ERROR_COMMUNICATION
+Exception raised by lenovo08912|MINISERVER
+
+Error:  >Fri Nov 15 17:28:57,909<    RfcException: [null]
+    message: Connect to SAP gateway failed
+    Connection parameters: TPNAME=miniServer GWHOST=192.168.100.90 GWSERV=sapgw00
+
+ERROR       partner '192.168.100.90:sapgw00' not reached
+TIME        Fri Nov 15 17:28:57 2013
+RELEASE     720
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      nixxi.cpp
+LINE        3286
+DETAIL      NiPConnect2: 192.168.100.90:3300
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     3
+
+    Return code: RFC_FAILURE(1)
+    error group: 102
+    key: RFC_ERROR_COMMUNICATION
+
+Error:  >Fri Nov 15 17:29:05,334<    RfcException: [null]
+    message: Connect to SAP gateway failed
+    Connection parameters: TPNAME=miniServer GWHOST=192.168.100.90 GWSERV=sapgw00
+
+ERROR       partner '192.168.100.90:sapgw00' not reached
+TIME        Fri Nov 15 17:29:05 2013
+RELEASE     720
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      nixxi.cpp
+LINE        3286
+DETAIL      NiPConnect2: 192.168.100.90:3300
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     1
+
+    Return code: RFC_FAILURE(1)
+    error group: 102
+    key: RFC_ERROR_COMMUNICATION
+
+Error:  >Fri Nov 15 17:29:06,854<    RfcException: [null]
+    message: Connect to SAP gateway failed
+    Connection parameters: TPNAME=miniServer GWHOST=192.168.100.90 GWSERV=sapgw00
+
+ERROR       partner '192.168.100.90:sapgw00' not reached
+TIME        Fri Nov 15 17:29:06 2013
+RELEASE     720
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      nixxi.cpp
+LINE        3286
+DETAIL      NiPConnect2: 192.168.100.90:3300
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     2
+
+    Return code: RFC_FAILURE(1)
+    error group: 102
+    key: RFC_ERROR_COMMUNICATION
+
+Error:  >Fri Nov 15 17:29:19,910<    RfcException: [null]
+    message: Connect to SAP gateway failed
+    Connection parameters: TPNAME=miniServer GWHOST=192.168.100.90 GWSERV=sapgw00
+
+ERROR       partner '192.168.100.90:sapgw00' not reached
+TIME        Fri Nov 15 17:29:19 2013
+RELEASE     720
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      nixxi.cpp
+LINE        3286
+DETAIL      NiPConnect2: 192.168.100.90:3300
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     4
+
+    Return code: RFC_FAILURE(1)
+    error group: 102
+    key: RFC_ERROR_COMMUNICATION
+
+Error:  >Fri Nov 15 17:29:27,343<    RfcException: [null]
+    message: Connect to SAP gateway failed
+    Connection parameters: TPNAME=miniServer GWHOST=192.168.100.90 GWSERV=sapgw00
+
+ERROR       partner '192.168.100.90:sapgw00' not reached
+TIME        Fri Nov 15 17:29:27 2013
+RELEASE     720
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      nixxi.cpp
+LINE        3286
+DETAIL      NiPConnect2: 192.168.100.90:3300
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     2
+
+    Return code: RFC_FAILURE(1)
+    error group: 102
+    key: RFC_ERROR_COMMUNICATION
+
+Error:  >Fri Nov 15 17:29:27,643<    
+>RfcIoException:
+    message: CPIC-CALL: SAP_CMACCPTP3 on convId:         
+
+ERROR       connection to partner '192.168.100.90:sapgw00' broken
+TIME        Fri Nov 15 17:29:27 2013
+RELEASE     720
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -6
+MODULE      nixxi.cpp
+LINE        5087
+DETAIL      NiIRead: P=192.168.100.90:3300; L=0.0.0.0:51023
+SYSTEM CALL recv
+ERRNO       10053
+ERRNO TEXT  WSAECONNABORTED: Software caused connection abort
+COUNTER     3
+
+    Return code: RFCIO_ERROR_SYSERROR(5)<
+
+
+Error:  >Fri Nov 15 17:29:27,643<    
+>RfcIoException:
+    message: CPIC-CALL: SAP_CMACCPTP3 on convId:         
+
+ERROR       connection to partner '192.168.100.90:sapgw00' broken
+TIME        Fri Nov 15 17:29:27 2013
+RELEASE     720
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -6
+MODULE      nixxi.cpp
+LINE        5087
+DETAIL      NiIRead: P=192.168.100.90:3300; L=0.0.0.0:51023
+SYSTEM CALL recv
+ERRNO       10053
+ERRNO TEXT  WSAECONNABORTED: Software caused connection abort
+COUNTER     3
+
+    Return code: RFCIO_ERROR_SYSERROR(5)<
+
+
+Error: [4] >Fri Nov 15 17:29:27,644<    RfcException: [lenovo08912|MINISERVER]
+    message: CPIC-CALL: SAP_CMACCPTP3 on convId:         
+
+ERROR       connection to partner '192.168.100.90:sapgw00' broken
+TIME        Fri Nov 15 17:29:27 2013
+RELEASE     720
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -6
+MODULE      nixxi.cpp
+LINE        5087
+DETAIL      NiIRead: P=192.168.100.90:3300; L=0.0.0.0:51023
+SYSTEM CALL recv
+ERRNO       10053
+ERRNO TEXT  WSAECONNABORTED: Software caused connection abort
+COUNTER     3
+
+    Return code: RFC_FAILURE(1)
+    error group: 102
+    key: RFC_ERROR_COMMUNICATION
+Exception raised by lenovo08912|MINISERVER
+
+Error:  >Fri Nov 15 17:29:29,743<    RfcException: [null]
+    message: Connect to SAP gateway failed
+    Connection parameters: TPNAME=miniServer GWHOST=192.168.100.90 GWSERV=sapgw00
+
+ERROR       partner '192.168.100.90:sapgw00' not reached
+TIME        Fri Nov 15 17:29:29 2013
+RELEASE     720
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      nixxi.cpp
+LINE        3286
+DETAIL      NiPConnect2: 192.168.100.90:3300
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     3
+
+    Return code: RFC_FAILURE(1)
+    error group: 102
+    key: RFC_ERROR_COMMUNICATION
+
+Error:  >Fri Nov 15 17:29:41,904<    RfcException: [null]
+    message: Connect to SAP gateway failed
+    Connection parameters: TPNAME=miniServer GWHOST=192.168.100.90 GWSERV=sapgw00
+
+ERROR       partner '192.168.100.90:sapgw00' not reached
+TIME        Fri Nov 15 17:29:41 2013
+RELEASE     720
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      nixxi.cpp
+LINE        3286
+DETAIL      NiPConnect2: 192.168.100.90:3300
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     5
+
+    Return code: RFC_FAILURE(1)
+    error group: 102
+    key: RFC_ERROR_COMMUNICATION
+
+Error:  >Fri Nov 15 17:29:49,339<    RfcException: [null]
+    message: Connect to SAP gateway failed
+    Connection parameters: TPNAME=miniServer GWHOST=192.168.100.90 GWSERV=sapgw00
+
+ERROR       partner '192.168.100.90:sapgw00' not reached
+TIME        Fri Nov 15 17:29:49 2013
+RELEASE     720
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      nixxi.cpp
+LINE        3286
+DETAIL      NiPConnect2: 192.168.100.90:3300
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     3
+
+    Return code: RFC_FAILURE(1)
+    error group: 102
+    key: RFC_ERROR_COMMUNICATION
+
+Error:  >Fri Nov 15 17:29:52,645<    RfcException: [null]
+    message: Connect to SAP gateway failed
+    Connection parameters: TPNAME=miniServer GWHOST=192.168.100.90 GWSERV=sapgw00
+
+ERROR       partner '192.168.100.90:sapgw00' not reached
+TIME        Fri Nov 15 17:29:52 2013
+RELEASE     720
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      nixxi.cpp
+LINE        3286
+DETAIL      NiPConnect2: 192.168.100.90:3300
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     4
+
+    Return code: RFC_FAILURE(1)
+    error group: 102
+    key: RFC_ERROR_COMMUNICATION
+
+Error:  >Fri Nov 15 17:30:03,912<    RfcException: [null]
+    message: Connect to SAP gateway failed
+    Connection parameters: TPNAME=miniServer GWHOST=192.168.100.90 GWSERV=sapgw00
+
+ERROR       partner '192.168.100.90:sapgw00' not reached
+TIME        Fri Nov 15 17:30:03 2013
+RELEASE     720
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      nixxi.cpp
+LINE        3286
+DETAIL      NiPConnect2: 192.168.100.90:3300
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     6
+
+    Return code: RFC_FAILURE(1)
+    error group: 102
+    key: RFC_ERROR_COMMUNICATION
+
+Error:  >Fri Nov 15 17:30:11,338<    RfcException: [null]
+    message: Connect to SAP gateway failed
+    Connection parameters: TPNAME=miniServer GWHOST=192.168.100.90 GWSERV=sapgw00
+
+ERROR       partner '192.168.100.90:sapgw00' not reached
+TIME        Fri Nov 15 17:30:11 2013
+RELEASE     720
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      nixxi.cpp
+LINE        3286
+DETAIL      NiPConnect2: 192.168.100.90:3300
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     4
+
+    Return code: RFC_FAILURE(1)
+    error group: 102
+    key: RFC_ERROR_COMMUNICATION
+
+Error:  >Fri Nov 15 17:30:14,644<    RfcException: [null]
+    message: Connect to SAP gateway failed
+    Connection parameters: TPNAME=miniServer GWHOST=192.168.100.90 GWSERV=sapgw00
+
+ERROR       partner '192.168.100.90:sapgw00' not reached
+TIME        Fri Nov 15 17:30:14 2013
+RELEASE     720
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      nixxi.cpp
+LINE        3286
+DETAIL      NiPConnect2: 192.168.100.90:3300
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     5
+
+    Return code: RFC_FAILURE(1)
+    error group: 102
+    key: RFC_ERROR_COMMUNICATION
+
+Error:  >Fri Nov 15 17:30:33,338<    RfcException: [null]
+    message: Connect to SAP gateway failed
+    Connection parameters: TPNAME=miniServer GWHOST=192.168.100.90 GWSERV=sapgw00
+
+ERROR       partner '192.168.100.90:sapgw00' not reached
+TIME        Fri Nov 15 17:30:33 2013
+RELEASE     720
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      nixxi.cpp
+LINE        3286
+DETAIL      NiPConnect2: 192.168.100.90:3300
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     5
+
+    Return code: RFC_FAILURE(1)
+    error group: 102
+    key: RFC_ERROR_COMMUNICATION
+
+Error:  >Fri Nov 15 17:30:35,907<    RfcException: [null]
+    message: Connect to SAP gateway failed
+    Connection parameters: TPNAME=miniServer GWHOST=192.168.100.90 GWSERV=sapgw00
+
+ERROR       partner '192.168.100.90:sapgw00' not reached
+TIME        Fri Nov 15 17:30:35 2013
+RELEASE     720
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      nixxi.cpp
+LINE        3286
+DETAIL      NiPConnect2: 192.168.100.90:3300
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     7
+
+    Return code: RFC_FAILURE(1)
+    error group: 102
+    key: RFC_ERROR_COMMUNICATION
+
+Error:  >Fri Nov 15 17:30:36,646<    RfcException: [null]
+    message: Connect to SAP gateway failed
+    Connection parameters: TPNAME=miniServer GWHOST=192.168.100.90 GWSERV=sapgw00
+
+ERROR       partner '192.168.100.90:sapgw00' not reached
+TIME        Fri Nov 15 17:30:36 2013
+RELEASE     720
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      nixxi.cpp
+LINE        3286
+DETAIL      NiPConnect2: 192.168.100.90:3300
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     6
+
+    Return code: RFC_FAILURE(1)
+    error group: 102
+    key: RFC_ERROR_COMMUNICATION
+
+Error:  >Fri Nov 15 17:30:55,343<    RfcException: [null]
+    message: Connect to SAP gateway failed
+    Connection parameters: TPNAME=miniServer GWHOST=192.168.100.90 GWSERV=sapgw00
+
+ERROR       partner '192.168.100.90:sapgw00' not reached
+TIME        Fri Nov 15 17:30:55 2013
+RELEASE     720
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      nixxi.cpp
+LINE        3286
+DETAIL      NiPConnect2: 192.168.100.90:3300
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     6
+
+    Return code: RFC_FAILURE(1)
+    error group: 102
+    key: RFC_ERROR_COMMUNICATION
+
+Error:  >Fri Nov 15 17:31:08,664<    RfcException: [null]
+    message: Connect to SAP gateway failed
+    Connection parameters: TPNAME=miniServer GWHOST=192.168.100.90 GWSERV=sapgw00
+
+ERROR       partner '192.168.100.90:sapgw00' not reached
+TIME        Fri Nov 15 17:31:08 2013
+RELEASE     720
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      nixxi.cpp
+LINE        3286
+DETAIL      NiPConnect2: 192.168.100.90:3300
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     7
+
+    Return code: RFC_FAILURE(1)
+    error group: 102
+    key: RFC_ERROR_COMMUNICATION
+
+Error:  >Fri Nov 15 17:31:27,350<    RfcException: [null]
+    message: Connect to SAP gateway failed
+    Connection parameters: TPNAME=miniServer GWHOST=192.168.100.90 GWSERV=sapgw00
+
+ERROR       partner '192.168.100.90:sapgw00' not reached
+TIME        Fri Nov 15 17:31:27 2013
+RELEASE     720
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      nixxi.cpp
+LINE        3286
+DETAIL      NiPConnect2: 192.168.100.90:3300
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     7
+
+    Return code: RFC_FAILURE(1)
+    error group: 102
+    key: RFC_ERROR_COMMUNICATION
+
+Error:  >Fri Nov 15 17:31:39,913<    RfcException: [null]
+    message: Connect to SAP gateway failed
+    Connection parameters: TPNAME=miniServer GWHOST=192.168.100.90 GWSERV=sapgw00
+
+ERROR       partner '192.168.100.90:sapgw00' not reached
+TIME        Fri Nov 15 17:31:39 2013
+RELEASE     720
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      nixxi.cpp
+LINE        3286
+DETAIL      NiPConnect2: 192.168.100.90:3300
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     8
+
+    Return code: RFC_FAILURE(1)
+    error group: 102
+    key: RFC_ERROR_COMMUNICATION
+
+Error:  >Fri Nov 15 17:32:12,649<    RfcException: [null]
+    message: Connect to SAP gateway failed
+    Connection parameters: TPNAME=miniServer GWHOST=192.168.100.90 GWSERV=sapgw00
+
+ERROR       partner '192.168.100.90:sapgw00' not reached
+TIME        Fri Nov 15 17:32:12 2013
+RELEASE     720
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      nixxi.cpp
+LINE        3286
+DETAIL      NiPConnect2: 192.168.100.90:3300
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     8
+
+    Return code: RFC_FAILURE(1)
+    error group: 102
+    key: RFC_ERROR_COMMUNICATION
+
+Error:  >Fri Nov 15 17:32:31,348<    RfcException: [null]
+    message: Connect to SAP gateway failed
+    Connection parameters: TPNAME=miniServer GWHOST=192.168.100.90 GWSERV=sapgw00
+
+ERROR       partner '192.168.100.90:sapgw00' not reached
+TIME        Fri Nov 15 17:32:31 2013
+RELEASE     720
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      nixxi.cpp
+LINE        3286
+DETAIL      NiPConnect2: 192.168.100.90:3300
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     8
+
+    Return code: RFC_FAILURE(1)
+    error group: 102
+    key: RFC_ERROR_COMMUNICATION
+
+Error:  >Fri Nov 15 17:33:47,920<    RfcException: [null]
+    message: Connect to SAP gateway failed
+    Connection parameters: TPNAME=miniServer GWHOST=192.168.100.90 GWSERV=sapgw00
+
+ERROR       partner '192.168.100.90:sapgw00' not reached
+TIME        Fri Nov 15 17:33:47 2013
+RELEASE     720
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      nixxi.cpp
+LINE        3286
+DETAIL      NiPConnect2: 192.168.100.90:3300
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     9
+
+    Return code: RFC_FAILURE(1)
+    error group: 102
+    key: RFC_ERROR_COMMUNICATION
+
+
+**** Error file opened at 20131115 190601 China Standard Time Rel 3.0.10 (2013-08-08) [720.440]
+Error:  >Fri Nov 15 19:06:01,637<    RfcException: [null]
+    message: Connect to SAP gateway failed
+Connection parameters: TYPE=A DEST=BYD_SAND ASHOST=192.168.100.90 SYSNR=00 PCS=1
+
+LOCATION    CPIC (TCP/IP) on local host with Unicode
+ERROR       partner '192.168.100.90:3300' not reached
+TIME        Fri Nov 15 19:06:01 2013
+RELEASE     720
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      nixxi.cpp
+LINE        3286
+DETAIL      NiPConnect2: 192.168.100.90:3300
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     3
+
+    Return code: RFC_FAILURE(1)
+    error group: 102
+    key: RFC_ERROR_COMMUNICATION
+
+
+**** Error file opened at 20131115 193528 China Standard Time Rel 3.0.10 (2013-08-08) [720.440]
+Exception thrown [Fri Nov 15 19:35:28,520]:Exception thrown by application running in JCo Server
+java.lang.ClassCastException: java.lang.Class cannot be cast to com.sap.conn.jco.server.JCoServerFunctionHandler
+	at com.sap.conn.jco.server.DefaultServerHandlerFactory$FunctionHandlerFactory.getCallHandler(DefaultServerHandlerFactory.java:130)
+	at com.sap.conn.jco.rt.DefaultServerWorker$FunctionDispatcher.handleRequest(DefaultServerWorker.java:996)
+	at com.sap.conn.jco.rt.DefaultServerWorker$FunctionDispatcher.handleRequest(DefaultServerWorker.java:972)
+	at com.sap.conn.jco.rt.DefaultServerWorker.dispatchRequest(DefaultServerWorker.java:148)
+	at com.sap.conn.jco.rt.MiddlewareJavaRfc$JavaRfcServer.dispatchRequest(MiddlewareJavaRfc.java:3415)
+	at com.sap.conn.jco.rt.MiddlewareJavaRfc$JavaRfcServer.listen(MiddlewareJavaRfc.java:2468)
+	at com.sap.conn.jco.rt.DefaultServerWorker.dispatch(DefaultServerWorker.java:254)
+	at com.sap.conn.jco.rt.DefaultServerWorker.loop(DefaultServerWorker.java:346)
+	at com.sap.conn.jco.rt.DefaultServerWorker.run(DefaultServerWorker.java:232)
+	at java.lang.Thread.run(Unknown Source)
+
+Exception thrown [Fri Nov 15 19:35:36,052]:Exception thrown by application running in JCo Server
+java.lang.ClassCastException: java.lang.Class cannot be cast to com.sap.conn.jco.server.JCoServerFunctionHandler
+	at com.sap.conn.jco.server.DefaultServerHandlerFactory$FunctionHandlerFactory.getCallHandler(DefaultServerHandlerFactory.java:130)
+	at com.sap.conn.jco.rt.DefaultServerWorker$FunctionDispatcher.handleRequest(DefaultServerWorker.java:996)
+	at com.sap.conn.jco.rt.DefaultServerWorker$FunctionDispatcher.handleRequest(DefaultServerWorker.java:972)
+	at com.sap.conn.jco.rt.DefaultServerWorker.dispatchRequest(DefaultServerWorker.java:148)
+	at com.sap.conn.jco.rt.MiddlewareJavaRfc$JavaRfcServer.dispatchRequest(MiddlewareJavaRfc.java:3415)
+	at com.sap.conn.jco.rt.MiddlewareJavaRfc$JavaRfcServer.listen(MiddlewareJavaRfc.java:2468)
+	at com.sap.conn.jco.rt.DefaultServerWorker.dispatch(DefaultServerWorker.java:254)
+	at com.sap.conn.jco.rt.DefaultServerWorker.loop(DefaultServerWorker.java:346)
+	at com.sap.conn.jco.rt.DefaultServerWorker.run(DefaultServerWorker.java:232)
+	at java.lang.Thread.run(Unknown Source)
+
+Exception thrown [Fri Nov 15 19:35:49,115]:Exception thrown by application running in JCo Server
+java.lang.ClassCastException: java.lang.Class cannot be cast to com.sap.conn.jco.server.JCoServerFunctionHandler
+	at com.sap.conn.jco.server.DefaultServerHandlerFactory$FunctionHandlerFactory.getCallHandler(DefaultServerHandlerFactory.java:130)
+	at com.sap.conn.jco.rt.DefaultServerWorker$FunctionDispatcher.handleRequest(DefaultServerWorker.java:996)
+	at com.sap.conn.jco.rt.DefaultServerWorker$FunctionDispatcher.handleRequest(DefaultServerWorker.java:972)
+	at com.sap.conn.jco.rt.DefaultServerWorker.dispatchRequest(DefaultServerWorker.java:148)
+	at com.sap.conn.jco.rt.MiddlewareJavaRfc$JavaRfcServer.dispatchRequest(MiddlewareJavaRfc.java:3415)
+	at com.sap.conn.jco.rt.MiddlewareJavaRfc$JavaRfcServer.listen(MiddlewareJavaRfc.java:2468)
+	at com.sap.conn.jco.rt.DefaultServerWorker.dispatch(DefaultServerWorker.java:254)
+	at com.sap.conn.jco.rt.DefaultServerWorker.loop(DefaultServerWorker.java:346)
+	at com.sap.conn.jco.rt.DefaultServerWorker.run(DefaultServerWorker.java:232)
+	at java.lang.Thread.run(Unknown Source)
+
+
+**** Error file opened at 20131115 193748 China Standard Time Rel 3.0.10 (2013-08-08) [720.440]
+Exception thrown [Fri Nov 15 19:37:48,181]:Exception thrown by application running in JCo Server
+Traceback (most recent call last):
+  File "D:\jython\lib\lib\sapint\server\testServer.py", line 20, in handleRequest
+    print "SessionId         : " + serverCtx.getSessionID()
+TypeError: cannot concatenate 'str' and 'NoneType' objects
+
+	at org.python.core.Py.TypeError(Py.java:227)
+	at org.python.core.PyObject._basic_add(PyObject.java:2070)
+	at org.python.core.PyObject._add(PyObject.java:2048)
+	at org.python.pycode._pyx2.handleRequest$2(D:\jython\lib\lib\sapint\server\testServer.py:34)
+	at org.python.pycode._pyx2.call_function(D:\jython\lib\lib\sapint\server\testServer.py)
+	at org.python.core.PyTableCode.call(PyTableCode.java:165)
+	at org.python.core.PyBaseCode.call(PyBaseCode.java:301)
+	at org.python.core.PyBaseCode.call(PyBaseCode.java:194)
+	at org.python.core.PyFunction.__call__(PyFunction.java:417)
+	at org.python.core.PyMethod.instancemethod___call__(PyMethod.java:232)
+	at org.python.core.PyMethod.__call__(PyMethod.java:223)
+	at org.python.core.PyMethod.__call__(PyMethod.java:213)
+	at org.python.core.PyMethod.__call__(PyMethod.java:208)
+	at org.python.core.PyObject._jcallexc(PyObject.java:3555)
+	at org.python.proxies.__main__$ReadTableHandler$2.handleRequest(Unknown Source)
+	at com.sap.conn.jco.rt.DefaultServerWorker$FunctionDispatcher.handleRequest(DefaultServerWorker.java:1036)
+	at com.sap.conn.jco.rt.DefaultServerWorker$FunctionDispatcher.handleRequest(DefaultServerWorker.java:972)
+	at com.sap.conn.jco.rt.DefaultServerWorker.dispatchRequest(DefaultServerWorker.java:148)
+	at com.sap.conn.jco.rt.MiddlewareJavaRfc$JavaRfcServer.dispatchRequest(MiddlewareJavaRfc.java:3415)
+	at com.sap.conn.jco.rt.MiddlewareJavaRfc$JavaRfcServer.listen(MiddlewareJavaRfc.java:2468)
+	at com.sap.conn.jco.rt.DefaultServerWorker.dispatch(DefaultServerWorker.java:254)
+	at com.sap.conn.jco.rt.DefaultServerWorker.loop(DefaultServerWorker.java:346)
+	at com.sap.conn.jco.rt.DefaultServerWorker.run(DefaultServerWorker.java:232)
+	at java.lang.Thread.run(Unknown Source)
+
+Exception thrown [Fri Nov 15 19:38:24,345]:Exception thrown by application running in JCo Server
+Traceback (most recent call last):
+  File "D:\jython\lib\lib\sapint\server\testServer.py", line 20, in handleRequest
+    print "SessionId         : " + serverCtx.getSessionID()
+TypeError: cannot concatenate 'str' and 'NoneType' objects
+
+	at org.python.core.Py.TypeError(Py.java:227)
+	at org.python.core.PyObject._basic_add(PyObject.java:2070)
+	at org.python.core.PyObject._add(PyObject.java:2048)
+	at org.python.pycode._pyx2.handleRequest$2(D:\jython\lib\lib\sapint\server\testServer.py:34)
+	at org.python.pycode._pyx2.call_function(D:\jython\lib\lib\sapint\server\testServer.py)
+	at org.python.core.PyTableCode.call(PyTableCode.java:165)
+	at org.python.core.PyBaseCode.call(PyBaseCode.java:301)
+	at org.python.core.PyBaseCode.call(PyBaseCode.java:194)
+	at org.python.core.PyFunction.__call__(PyFunction.java:417)
+	at org.python.core.PyMethod.instancemethod___call__(PyMethod.java:232)
+	at org.python.core.PyMethod.__call__(PyMethod.java:223)
+	at org.python.core.PyMethod.__call__(PyMethod.java:213)
+	at org.python.core.PyMethod.__call__(PyMethod.java:208)
+	at org.python.core.PyObject._jcallexc(PyObject.java:3555)
+	at org.python.proxies.__main__$ReadTableHandler$2.handleRequest(Unknown Source)
+	at com.sap.conn.jco.rt.DefaultServerWorker$FunctionDispatcher.handleRequest(DefaultServerWorker.java:1036)
+	at com.sap.conn.jco.rt.DefaultServerWorker$FunctionDispatcher.handleRequest(DefaultServerWorker.java:972)
+	at com.sap.conn.jco.rt.DefaultServerWorker.dispatchRequest(DefaultServerWorker.java:148)
+	at com.sap.conn.jco.rt.MiddlewareJavaRfc$JavaRfcServer.dispatchRequest(MiddlewareJavaRfc.java:3415)
+	at com.sap.conn.jco.rt.MiddlewareJavaRfc$JavaRfcServer.listen(MiddlewareJavaRfc.java:2468)
+	at com.sap.conn.jco.rt.DefaultServerWorker.dispatch(DefaultServerWorker.java:254)
+	at com.sap.conn.jco.rt.DefaultServerWorker.loop(DefaultServerWorker.java:346)
+	at com.sap.conn.jco.rt.DefaultServerWorker.run(DefaultServerWorker.java:232)
+	at java.lang.Thread.run(Unknown Source)
+
+
+**** Error file opened at 20131115 193914 China Standard Time Rel 3.0.10 (2013-08-08) [720.440]
+Exception thrown [Fri Nov 15 19:39:14,599]:Exception thrown by application running in JCo Server
+Traceback (most recent call last):
+  File "D:\jython\lib\lib\sapint\server\testServer.py", line 20, in handleRequest
+    print "SessionId         : " + serverCtx.getSessionID()
+TypeError: cannot concatenate 'str' and 'NoneType' objects
+
+	at org.python.core.Py.TypeError(Py.java:227)
+	at org.python.core.PyObject._basic_add(PyObject.java:2070)
+	at org.python.core.PyObject._add(PyObject.java:2048)
+	at org.python.pycode._pyx2.handleRequest$2(D:\jython\lib\lib\sapint\server\testServer.py:34)
+	at org.python.pycode._pyx2.call_function(D:\jython\lib\lib\sapint\server\testServer.py)
+	at org.python.core.PyTableCode.call(PyTableCode.java:165)
+	at org.python.core.PyBaseCode.call(PyBaseCode.java:301)
+	at org.python.core.PyBaseCode.call(PyBaseCode.java:194)
+	at org.python.core.PyFunction.__call__(PyFunction.java:417)
+	at org.python.core.PyMethod.instancemethod___call__(PyMethod.java:232)
+	at org.python.core.PyMethod.__call__(PyMethod.java:223)
+	at org.python.core.PyMethod.__call__(PyMethod.java:213)
+	at org.python.core.PyMethod.__call__(PyMethod.java:208)
+	at org.python.core.PyObject._jcallexc(PyObject.java:3555)
+	at org.python.proxies.__main__$ReadTableHandler$2.handleRequest(Unknown Source)
+	at com.sap.conn.jco.rt.DefaultServerWorker$FunctionDispatcher.handleRequest(DefaultServerWorker.java:1036)
+	at com.sap.conn.jco.rt.DefaultServerWorker$FunctionDispatcher.handleRequest(DefaultServerWorker.java:972)
+	at com.sap.conn.jco.rt.DefaultServerWorker.dispatchRequest(DefaultServerWorker.java:148)
+	at com.sap.conn.jco.rt.MiddlewareJavaRfc$JavaRfcServer.dispatchRequest(MiddlewareJavaRfc.java:3415)
+	at com.sap.conn.jco.rt.MiddlewareJavaRfc$JavaRfcServer.listen(MiddlewareJavaRfc.java:2468)
+	at com.sap.conn.jco.rt.DefaultServerWorker.dispatch(DefaultServerWorker.java:254)
+	at com.sap.conn.jco.rt.DefaultServerWorker.loop(DefaultServerWorker.java:346)
+	at com.sap.conn.jco.rt.DefaultServerWorker.run(DefaultServerWorker.java:232)
+	at java.lang.Thread.run(Unknown Source)
+
+
+**** Error file opened at 20131115 194910 China Standard Time Rel 3.0.10 (2013-08-08) [720.440]
+Exception thrown [Fri Nov 15 19:49:10,406]:Exception thrown by application running in JCo Server
+Traceback (most recent call last):
+  File "D:\jython\lib\lib\sapint\server\testServer.py", line 20, in handleRequest
+    print 'call              : ',function.getName()
+TypeError: cannot concatenate 'str' and 'NoneType' objects
+
+	at org.python.core.Py.TypeError(Py.java:227)
+	at org.python.core.PyObject._basic_add(PyObject.java:2070)
+	at org.python.core.PyObject._add(PyObject.java:2048)
+	at org.python.pycode._pyx2.handleRequest$2(D:\jython\lib\lib\sapint\server\testServer.py:34)
+	at org.python.pycode._pyx2.call_function(D:\jython\lib\lib\sapint\server\testServer.py)
+	at org.python.core.PyTableCode.call(PyTableCode.java:165)
+	at org.python.core.PyBaseCode.call(PyBaseCode.java:301)
+	at org.python.core.PyBaseCode.call(PyBaseCode.java:194)
+	at org.python.core.PyFunction.__call__(PyFunction.java:417)
+	at org.python.core.PyMethod.instancemethod___call__(PyMethod.java:232)
+	at org.python.core.PyMethod.__call__(PyMethod.java:223)
+	at org.python.core.PyMethod.__call__(PyMethod.java:213)
+	at org.python.core.PyMethod.__call__(PyMethod.java:208)
+	at org.python.core.PyObject._jcallexc(PyObject.java:3555)
+	at org.python.proxies.__main__$ReadTableHandler$2.handleRequest(Unknown Source)
+	at com.sap.conn.jco.rt.DefaultServerWorker$FunctionDispatcher.handleRequest(DefaultServerWorker.java:1036)
+	at com.sap.conn.jco.rt.DefaultServerWorker$FunctionDispatcher.handleRequest(DefaultServerWorker.java:972)
+	at com.sap.conn.jco.rt.DefaultServerWorker.dispatchRequest(DefaultServerWorker.java:148)
+	at com.sap.conn.jco.rt.MiddlewareJavaRfc$JavaRfcServer.dispatchRequest(MiddlewareJavaRfc.java:3415)
+	at com.sap.conn.jco.rt.MiddlewareJavaRfc$JavaRfcServer.listen(MiddlewareJavaRfc.java:2468)
+	at com.sap.conn.jco.rt.DefaultServerWorker.dispatch(DefaultServerWorker.java:254)
+	at com.sap.conn.jco.rt.DefaultServerWorker.loop(DefaultServerWorker.java:346)
+	at com.sap.conn.jco.rt.DefaultServerWorker.run(DefaultServerWorker.java:232)
+	at java.lang.Thread.run(Unknown Source)
+
+Exception thrown [Fri Nov 15 19:50:10,347]:Exception thrown by application running in JCo Server
+Traceback (most recent call last):
+  File "D:\jython\lib\lib\sapint\server\testServer.py", line 20, in handleRequest
+    print 'call              : ', function.getName()
+TypeError: cannot concatenate 'str' and 'NoneType' objects
+
+	at org.python.core.Py.TypeError(Py.java:227)
+	at org.python.core.PyObject._basic_add(PyObject.java:2070)
+	at org.python.core.PyObject._add(PyObject.java:2048)
+	at org.python.pycode._pyx2.handleRequest$2(D:\jython\lib\lib\sapint\server\testServer.py:34)
+	at org.python.pycode._pyx2.call_function(D:\jython\lib\lib\sapint\server\testServer.py)
+	at org.python.core.PyTableCode.call(PyTableCode.java:165)
+	at org.python.core.PyBaseCode.call(PyBaseCode.java:301)
+	at org.python.core.PyBaseCode.call(PyBaseCode.java:194)
+	at org.python.core.PyFunction.__call__(PyFunction.java:417)
+	at org.python.core.PyMethod.instancemethod___call__(PyMethod.java:232)
+	at org.python.core.PyMethod.__call__(PyMethod.java:223)
+	at org.python.core.PyMethod.__call__(PyMethod.java:213)
+	at org.python.core.PyMethod.__call__(PyMethod.java:208)
+	at org.python.core.PyObject._jcallexc(PyObject.java:3555)
+	at org.python.proxies.__main__$ReadTableHandler$2.handleRequest(Unknown Source)
+	at com.sap.conn.jco.rt.DefaultServerWorker$FunctionDispatcher.handleRequest(DefaultServerWorker.java:1036)
+	at com.sap.conn.jco.rt.DefaultServerWorker$FunctionDispatcher.handleRequest(DefaultServerWorker.java:972)
+	at com.sap.conn.jco.rt.DefaultServerWorker.dispatchRequest(DefaultServerWorker.java:148)
+	at com.sap.conn.jco.rt.MiddlewareJavaRfc$JavaRfcServer.dispatchRequest(MiddlewareJavaRfc.java:3415)
+	at com.sap.conn.jco.rt.MiddlewareJavaRfc$JavaRfcServer.listen(MiddlewareJavaRfc.java:2468)
+	at com.sap.conn.jco.rt.DefaultServerWorker.dispatch(DefaultServerWorker.java:254)
+	at com.sap.conn.jco.rt.DefaultServerWorker.loop(DefaultServerWorker.java:346)
+	at com.sap.conn.jco.rt.DefaultServerWorker.run(DefaultServerWorker.java:232)
+	at java.lang.Thread.run(Unknown Source)
+
+Exception thrown [Fri Nov 15 19:50:34,859]:Exception thrown by application running in JCo Server
+Traceback (most recent call last):
+  File "D:\jython\lib\lib\sapint\server\testServer.py", line 20, in handleRequest
+    print 'call              : ', function.getName()
+TypeError: cannot concatenate 'str' and 'NoneType' objects
+
+	at org.python.core.Py.TypeError(Py.java:227)
+	at org.python.core.PyObject._basic_add(PyObject.java:2070)
+	at org.python.core.PyObject._add(PyObject.java:2048)
+	at org.python.pycode._pyx2.handleRequest$2(D:\jython\lib\lib\sapint\server\testServer.py:34)
+	at org.python.pycode._pyx2.call_function(D:\jython\lib\lib\sapint\server\testServer.py)
+	at org.python.core.PyTableCode.call(PyTableCode.java:165)
+	at org.python.core.PyBaseCode.call(PyBaseCode.java:301)
+	at org.python.core.PyBaseCode.call(PyBaseCode.java:194)
+	at org.python.core.PyFunction.__call__(PyFunction.java:417)
+	at org.python.core.PyMethod.instancemethod___call__(PyMethod.java:232)
+	at org.python.core.PyMethod.__call__(PyMethod.java:223)
+	at org.python.core.PyMethod.__call__(PyMethod.java:213)
+	at org.python.core.PyMethod.__call__(PyMethod.java:208)
+	at org.python.core.PyObject._jcallexc(PyObject.java:3555)
+	at org.python.proxies.__main__$ReadTableHandler$2.handleRequest(Unknown Source)
+	at com.sap.conn.jco.rt.DefaultServerWorker$FunctionDispatcher.handleRequest(DefaultServerWorker.java:1036)
+	at com.sap.conn.jco.rt.DefaultServerWorker$FunctionDispatcher.handleRequest(DefaultServerWorker.java:972)
+	at com.sap.conn.jco.rt.DefaultServerWorker.dispatchRequest(DefaultServerWorker.java:148)
+	at com.sap.conn.jco.rt.MiddlewareJavaRfc$JavaRfcServer.dispatchRequest(MiddlewareJavaRfc.java:3415)
+	at com.sap.conn.jco.rt.MiddlewareJavaRfc$JavaRfcServer.listen(MiddlewareJavaRfc.java:2468)
+	at com.sap.conn.jco.rt.DefaultServerWorker.dispatch(DefaultServerWorker.java:254)
+	at com.sap.conn.jco.rt.DefaultServerWorker.loop(DefaultServerWorker.java:346)
+	at com.sap.conn.jco.rt.DefaultServerWorker.run(DefaultServerWorker.java:232)
+	at java.lang.Thread.run(Unknown Source)
+
+
+**** Error file opened at 20131115 205047 China Standard Time Rel 3.0.10 (2013-08-08) [720.440]
+Error:  >Fri Nov 15 20:50:47,957<    
+>RfcIoException:
+    message: no message received
+    Return code: RFCIO_ERROR_CANCELLED(23)<
+
+
+Error:  >Fri Nov 15 20:50:47,970<    
+>RfcIoException:
+    message: no message received
+    Return code: RFCIO_ERROR_SYSERROR(5)<
+
+
+Error: [4] >Fri Nov 15 20:50:47,970<    RfcException: [lenovo08912|MINISERVER]
+    message: no message received
+    Return code: RFC_FAILURE(1)
+    error group: 102
+    key: RFC_ERROR_COMMUNICATION
+Exception raised by lenovo08912|MINISERVER
+
+Error:  >Fri Nov 15 20:50:47,971<    
+>RfcIoException:
+    message: no message received
+    Return code: RFCIO_ERROR_CANCELLED(23)<
+
+
+Error:  >Fri Nov 15 20:50:47,971<    
+>RfcIoException:
+    message: no message received
+    Return code: RFCIO_ERROR_SYSERROR(5)<
+
+
+Error: [2] >Fri Nov 15 20:50:47,971<    RfcException: [lenovo08912|MINISERVER]
+    message: no message received
+    Return code: RFC_FAILURE(1)
+    error group: 102
+    key: RFC_ERROR_COMMUNICATION
+Exception raised by lenovo08912|MINISERVER
+
+Error:  >Fri Nov 15 20:50:47,972<    
+>RfcIoException:
+    message: no message received
+    Return code: RFCIO_ERROR_CANCELLED(23)<
+
+
+Error:  >Fri Nov 15 20:50:47,972<    
+>RfcIoException:
+    message: no message received
+    Return code: RFCIO_ERROR_SYSERROR(5)<
+
+
+Error: [5] >Fri Nov 15 20:50:47,972<    RfcException: [lenovo08912|MINISERVER]
+    message: no message received
+    Return code: RFC_FAILURE(1)
+    error group: 102
+    key: RFC_ERROR_COMMUNICATION
+Exception raised by lenovo08912|MINISERVER
+
+Error:  >Fri Nov 15 20:50:47,972<    
+>RfcIoException:
+    message: no message received
+    Return code: RFCIO_ERROR_CANCELLED(23)<
+
+
+Error:  >Fri Nov 15 20:50:47,972<    
+>RfcIoException:
+    message: no message received
+    Return code: RFCIO_ERROR_SYSERROR(5)<
+
+
+Error: [3] >Fri Nov 15 20:50:47,972<    RfcException: [lenovo08912|MINISERVER]
+    message: no message received
+    Return code: RFC_FAILURE(1)
+    error group: 102
+    key: RFC_ERROR_COMMUNICATION
+Exception raised by lenovo08912|MINISERVER
+
+Error:  >Fri Nov 15 20:50:47,973<    
+>RfcIoException:
+    message: no message received
+    Return code: RFCIO_ERROR_CANCELLED(23)<
+
+
+Error:  >Fri Nov 15 20:50:47,975<    
+>RfcIoException:
+    message: no message received
+    Return code: RFCIO_ERROR_SYSERROR(5)<
+
+
+Error: [6] >Fri Nov 15 20:50:47,975<    RfcException: [lenovo08912|MINISERVER]
+    message: no message received
+    Return code: RFC_FAILURE(1)
+    error group: 102
+    key: RFC_ERROR_COMMUNICATION
+Exception raised by lenovo08912|MINISERVER
+
+Error:  >Fri Nov 15 20:51:21,057<    
+>RfcIoException:
+    message: no message received
+    Return code: RFCIO_ERROR_CANCELLED(23)<
+
+
+Error:  >Fri Nov 15 20:51:21,058<    
+>RfcIoException:
+    message: no message received
+    Return code: RFCIO_ERROR_CANCELLED(23)<
+
+
+Error:  >Fri Nov 15 20:51:21,058<    
+>RfcIoException:
+    message: no message received
+    Return code: RFCIO_ERROR_SYSERROR(5)<
+
+
+Error:  >Fri Nov 15 20:51:21,058<    
+>RfcIoException:
+    message: no message received
+    Return code: RFCIO_ERROR_SYSERROR(5)<
+
+
+Error: [3] >Fri Nov 15 20:51:21,058<    RfcException: [lenovo08912|miniServer]
+    message: no message received
+    Return code: RFC_FAILURE(1)
+    error group: 102
+    key: RFC_ERROR_COMMUNICATION
+Exception raised by lenovo08912|miniServer
+
+Error: [1] >Fri Nov 15 20:51:21,058<    RfcException: [lenovo08912|miniServer]
+    message: no message received
+    Return code: RFC_FAILURE(1)
+    error group: 102
+    key: RFC_ERROR_COMMUNICATION
+Exception raised by lenovo08912|miniServer
+
+Error:  >Fri Nov 15 20:51:21,063<    
+>RfcIoException:
+    message: no message received
+    Return code: RFCIO_ERROR_CANCELLED(23)<
+
+
+Error:  >Fri Nov 15 20:51:21,063<    
+>RfcIoException:
+    message: no message received
+    Return code: RFCIO_ERROR_SYSERROR(5)<
+
+
+Error: [4] >Fri Nov 15 20:51:21,063<    RfcException: [lenovo08912|miniServer]
+    message: no message received
+    Return code: RFC_FAILURE(1)
+    error group: 102
+    key: RFC_ERROR_COMMUNICATION
+Exception raised by lenovo08912|miniServer
+
+Error:  >Fri Nov 15 20:51:21,066<    
+>RfcIoException:
+    message: no message received
+    Return code: RFCIO_ERROR_CANCELLED(23)<
+
+
+Error:  >Fri Nov 15 20:51:21,066<    
+>RfcIoException:
+    message: no message received
+    Return code: RFCIO_ERROR_SYSERROR(5)<
+
+
+Error: [2] >Fri Nov 15 20:51:21,066<    RfcException: [lenovo08912|miniServer]
+    message: no message received
+    Return code: RFC_FAILURE(1)
+    error group: 102
+    key: RFC_ERROR_COMMUNICATION
+Exception raised by lenovo08912|miniServer
+
+Error:  >Fri Nov 15 20:51:21,070<    
+>RfcIoException:
+    message: no message received
+    Return code: RFCIO_ERROR_CANCELLED(23)<
+
+
+Error:  >Fri Nov 15 20:51:21,070<    
+>RfcIoException:
+    message: no message received
+    Return code: RFCIO_ERROR_SYSERROR(5)<
+
+
+Error: [5] >Fri Nov 15 20:51:21,070<    RfcException: [lenovo08912|miniServer]
+    message: no message received
+    Return code: RFC_FAILURE(1)
+    error group: 102
+    key: RFC_ERROR_COMMUNICATION
+Exception raised by lenovo08912|miniServer
+
+Error:  >Fri Nov 15 20:51:33,478<    
+>RfcIoException:
+    message: no message received
+    Return code: RFCIO_ERROR_CANCELLED(23)<
+
+
+Error:  >Fri Nov 15 20:51:33,478<    
+>RfcIoException:
+    message: no message received
+    Return code: RFCIO_ERROR_SYSERROR(5)<
+
+
+Error: [6] >Fri Nov 15 20:51:33,478<    RfcException: [lenovo08912|miniServer]
+    message: no message received
+    Return code: RFC_FAILURE(1)
+    error group: 102
+    key: RFC_ERROR_COMMUNICATION
+Exception raised by lenovo08912|miniServer
+
+Error:  >Fri Nov 15 20:51:33,495<    
+>RfcIoException:
+    message: no message received
+    Return code: RFCIO_ERROR_CANCELLED(23)<
+
+
+Error:  >Fri Nov 15 20:51:33,495<    
+>RfcIoException:
+    message: no message received
+    Return code: RFCIO_ERROR_CANCELLED(23)<
+
+
+Error:  >Fri Nov 15 20:51:33,495<    
+>RfcIoException:
+    message: no message received
+    Return code: RFCIO_ERROR_SYSERROR(5)<
+
+
+Error: [4] >Fri Nov 15 20:51:33,496<    RfcException: [lenovo08912|miniServer]
+    message: no message received
+    Return code: RFC_FAILURE(1)
+    error group: 102
+    key: RFC_ERROR_COMMUNICATION
+Exception raised by lenovo08912|miniServer
+
+Error:  >Fri Nov 15 20:51:33,496<    
+>RfcIoException:
+    message: no message received
+    Return code: RFCIO_ERROR_SYSERROR(5)<
+
+
+Error: [2] >Fri Nov 15 20:51:33,496<    RfcException: [lenovo08912|miniServer]
+    message: no message received
+    Return code: RFC_FAILURE(1)
+    error group: 102
+    key: RFC_ERROR_COMMUNICATION
+Exception raised by lenovo08912|miniServer
+
+Error:  >Fri Nov 15 20:51:33,496<    
+>RfcIoException:
+    message: no message received
+    Return code: RFCIO_ERROR_CANCELLED(23)<
+
+
+Error:  >Fri Nov 15 20:51:33,496<    
+>RfcIoException:
+    message: no message received
+    Return code: RFCIO_ERROR_SYSERROR(5)<
+
+
+Error: [1] >Fri Nov 15 20:51:33,496<    RfcException: [lenovo08912|miniServer]
+    message: no message received
+    Return code: RFC_FAILURE(1)
+    error group: 102
+    key: RFC_ERROR_COMMUNICATION
+Exception raised by lenovo08912|miniServer
+
+Error:  >Fri Nov 15 20:51:33,499<    
+>RfcIoException:
+    message: no message received
+    Return code: RFCIO_ERROR_CANCELLED(23)<
+
+
+Error:  >Fri Nov 15 20:51:33,499<    
+>RfcIoException:
+    message: no message received
+    Return code: RFCIO_ERROR_SYSERROR(5)<
+
+
+Error: [3] >Fri Nov 15 20:51:33,499<    RfcException: [lenovo08912|miniServer]
+    message: no message received
+    Return code: RFC_FAILURE(1)
+    error group: 102
+    key: RFC_ERROR_COMMUNICATION
+Exception raised by lenovo08912|miniServer
+
+Error:  >Fri Nov 15 20:51:50,469<    
+>RfcIoException:
+    message: no message received
+    Return code: RFCIO_ERROR_CANCELLED(23)<
+
+
+Error:  >Fri Nov 15 20:51:50,470<    
+>RfcIoException:
+    message: no message received
+    Return code: RFCIO_ERROR_SYSERROR(5)<
+
+
+Error: [4] >Fri Nov 15 20:51:50,470<    RfcException: [lenovo08912|miniServer]
+    message: no message received
+    Return code: RFC_FAILURE(1)
+    error group: 102
+    key: RFC_ERROR_COMMUNICATION
+Exception raised by lenovo08912|miniServer
+
+Error:  >Fri Nov 15 20:51:50,472<    
+>RfcIoException:
+    message: no message received
+    Return code: RFCIO_ERROR_CANCELLED(23)<
+
+
+Error:  >Fri Nov 15 20:51:50,472<    
+>RfcIoException:
+    message: no message received
+    Return code: RFCIO_ERROR_SYSERROR(5)<
+
+
+Error: [3] >Fri Nov 15 20:51:50,472<    RfcException: [lenovo08912|miniServer]
+    message: no message received
+    Return code: RFC_FAILURE(1)
+    error group: 102
+    key: RFC_ERROR_COMMUNICATION
+Exception raised by lenovo08912|miniServer
+
+Error:  >Fri Nov 15 20:51:50,478<    
+>RfcIoException:
+    message: no message received
+    Return code: RFCIO_ERROR_CANCELLED(23)<
+
+
+Error:  >Fri Nov 15 20:51:50,479<    
+>RfcIoException:
+    message: no message received
+    Return code: RFCIO_ERROR_SYSERROR(5)<
+
+
+Error: [5] >Fri Nov 15 20:51:50,479<    RfcException: [lenovo08912|miniServer]
+    message: no message received
+    Return code: RFC_FAILURE(1)
+    error group: 102
+    key: RFC_ERROR_COMMUNICATION
+Exception raised by lenovo08912|miniServer
+
+Error:  >Fri Nov 15 20:51:50,483<    
+>RfcIoException:
+    message: no message received
+    Return code: RFCIO_ERROR_CANCELLED(23)<
+
+
+Error:  >Fri Nov 15 20:51:50,483<    
+>RfcIoException:
+    message: no message received
+    Return code: RFCIO_ERROR_SYSERROR(5)<
+
+
+Error: [2] >Fri Nov 15 20:51:50,483<    RfcException: [lenovo08912|miniServer]
+    message: no message received
+    Return code: RFC_FAILURE(1)
+    error group: 102
+    key: RFC_ERROR_COMMUNICATION
+Exception raised by lenovo08912|miniServer
+
+Error:  >Fri Nov 15 20:51:51,377<    
+>RfcIoException:
+    message: no message received
+    Return code: RFCIO_ERROR_CANCELLED(23)<
+
+
+Error:  >Fri Nov 15 20:51:51,378<    
+>RfcIoException:
+    message: no message received
+    Return code: RFCIO_ERROR_SYSERROR(5)<
+
+
+Error: [1] >Fri Nov 15 20:51:51,378<    RfcException: [lenovo08912|miniServer]
+    message: no message received
+    Return code: RFC_FAILURE(1)
+    error group: 102
+    key: RFC_ERROR_COMMUNICATION
+Exception raised by lenovo08912|miniServer
+
+Error:  >Fri Nov 15 20:52:00,089<    
+>RfcIoException:
+    message: no message received
+    Return code: RFCIO_ERROR_CANCELLED(23)<
+
+
+Error:  >Fri Nov 15 20:52:00,089<    
+>RfcIoException:
+    message: no message received
+    Return code: RFCIO_ERROR_SYSERROR(5)<
+
+
+Error: [4] >Fri Nov 15 20:52:00,090<    RfcException: [lenovo08912|miniServer]
+    message: no message received
+    Return code: RFC_FAILURE(1)
+    error group: 102
+    key: RFC_ERROR_COMMUNICATION
+Exception raised by lenovo08912|miniServer
+
+Error:  >Fri Nov 15 20:52:00,093<    
+>RfcIoException:
+    message: no message received
+    Return code: RFCIO_ERROR_CANCELLED(23)<
+
+
+Error:  >Fri Nov 15 20:52:00,093<    
+>RfcIoException:
+    message: no message received
+    Return code: RFCIO_ERROR_SYSERROR(5)<
+
+
+Error: [2] >Fri Nov 15 20:52:00,093<    RfcException: [lenovo08912|miniServer]
+    message: no message received
+    Return code: RFC_FAILURE(1)
+    error group: 102
+    key: RFC_ERROR_COMMUNICATION
+Exception raised by lenovo08912|miniServer
+
+Error:  >Fri Nov 15 20:52:00,101<    
+>RfcIoException:
+    message: no message received
+    Return code: RFCIO_ERROR_CANCELLED(23)<
+
+
+Error:  >Fri Nov 15 20:52:00,101<    
+>RfcIoException:
+    message: no message received
+    Return code: RFCIO_ERROR_SYSERROR(5)<
+
+
+Error: [3] >Fri Nov 15 20:52:00,101<    RfcException: [lenovo08912|miniServer]
+    message: no message received
+    Return code: RFC_FAILURE(1)
+    error group: 102
+    key: RFC_ERROR_COMMUNICATION
+Exception raised by lenovo08912|miniServer
+
+Error:  >Fri Nov 15 20:52:00,104<    
+>RfcIoException:
+    message: no message received
+    Return code: RFCIO_ERROR_CANCELLED(23)<
+
+
+Error:  >Fri Nov 15 20:52:00,104<    
+>RfcIoException:
+    message: no message received
+    Return code: RFCIO_ERROR_SYSERROR(5)<
+
+
+Error: [5] >Fri Nov 15 20:52:00,105<    RfcException: [lenovo08912|miniServer]
+    message: no message received
+    Return code: RFC_FAILURE(1)
+    error group: 102
+    key: RFC_ERROR_COMMUNICATION
+Exception raised by lenovo08912|miniServer
+
+Error:  >Fri Nov 15 20:52:10,268<    
+>RfcIoException:
+    message: no message received
+    Return code: RFCIO_ERROR_CANCELLED(23)<
+
+
+Error:  >Fri Nov 15 20:52:10,268<    
+>RfcIoException:
+    message: no message received
+    Return code: RFCIO_ERROR_SYSERROR(5)<
+
+
+Error: [2] >Fri Nov 15 20:52:10,268<    RfcException: [lenovo08912|miniServer]
+    message: no message received
+    Return code: RFC_FAILURE(1)
+    error group: 102
+    key: RFC_ERROR_COMMUNICATION
+Exception raised by lenovo08912|miniServer
+
+Error:  >Fri Nov 15 20:52:10,276<    
+>RfcIoException:
+    message: no message received
+    Return code: RFCIO_ERROR_CANCELLED(23)<
+
+
+Error:  >Fri Nov 15 20:52:10,276<    
+>RfcIoException:
+    message: no message received
+    Return code: RFCIO_ERROR_SYSERROR(5)<
+
+
+Error: [4] >Fri Nov 15 20:52:10,276<    RfcException: [lenovo08912|miniServer]
+    message: no message received
+    Return code: RFC_FAILURE(1)
+    error group: 102
+    key: RFC_ERROR_COMMUNICATION
+Exception raised by lenovo08912|miniServer
+
+Error:  >Fri Nov 15 20:52:18,891<    
+>RfcIoException:
+    message: no message received
+    Return code: RFCIO_ERROR_CANCELLED(23)<
+
+
+Error:  >Fri Nov 15 20:52:18,891<    
+>RfcIoException:
+    message: no message received
+    Return code: RFCIO_ERROR_SYSERROR(5)<
+
+
+Error: [1] >Fri Nov 15 20:52:18,891<    RfcException: [lenovo08912|miniServer]
+    message: no message received
+    Return code: RFC_FAILURE(1)
+    error group: 102
+    key: RFC_ERROR_COMMUNICATION
+Exception raised by lenovo08912|miniServer
+
+Error:  >Fri Nov 15 20:52:18,893<    
+>RfcIoException:
+    message: no message received
+    Return code: RFCIO_ERROR_CANCELLED(23)<
+
+
+Error:  >Fri Nov 15 20:52:18,893<    
+>RfcIoException:
+    message: no message received
+    Return code: RFCIO_ERROR_SYSERROR(5)<
+
+
+Error: [3] >Fri Nov 15 20:52:18,893<    RfcException: [lenovo08912|miniServer]
+    message: no message received
+    Return code: RFC_FAILURE(1)
+    error group: 102
+    key: RFC_ERROR_COMMUNICATION
+Exception raised by lenovo08912|miniServer
+
+Error:  >Fri Nov 15 20:52:18,898<    
+>RfcIoException:
+    message: no message received
+    Return code: RFCIO_ERROR_CANCELLED(23)<
+
+
+Error:  >Fri Nov 15 20:52:18,898<    
+>RfcIoException:
+    message: no message received
+    Return code: RFCIO_ERROR_SYSERROR(5)<
+
+
+Error: [6] >Fri Nov 15 20:52:18,899<    RfcException: [lenovo08912|miniServer]
+    message: no message received
+    Return code: RFC_FAILURE(1)
+    error group: 102
+    key: RFC_ERROR_COMMUNICATION
+Exception raised by lenovo08912|miniServer
+
+Error:  >Fri Nov 15 20:52:25,149<    
+>RfcIoException:
+    message: no message received
+    Return code: RFCIO_ERROR_CANCELLED(23)<
+
+
+Error:  >Fri Nov 15 20:52:25,149<    
+>RfcIoException:
+    message: no message received
+    Return code: RFCIO_ERROR_SYSERROR(5)<
+
+
+Error: [4] >Fri Nov 15 20:52:25,150<    RfcException: [lenovo08912|miniServer]
+    message: no message received
+    Return code: RFC_FAILURE(1)
+    error group: 102
+    key: RFC_ERROR_COMMUNICATION
+Exception raised by lenovo08912|miniServer
+
+Error:  >Fri Nov 15 20:52:25,150<    
+>RfcIoException:
+    message: no message received
+    Return code: RFCIO_ERROR_CANCELLED(23)<
+
+
+Error:  >Fri Nov 15 20:52:25,150<    
+>RfcIoException:
+    message: no message received
+    Return code: RFCIO_ERROR_SYSERROR(5)<
+
+
+Error: [2] >Fri Nov 15 20:52:25,150<    RfcException: [lenovo08912|miniServer]
+    message: no message received
+    Return code: RFC_FAILURE(1)
+    error group: 102
+    key: RFC_ERROR_COMMUNICATION
+Exception raised by lenovo08912|miniServer
+
+Error:  >Fri Nov 15 20:53:07,305<    
+>RfcIoException:
+    message: no message received
+    Return code: RFCIO_ERROR_CANCELLED(23)<
+
+
+Error:  >Fri Nov 15 20:53:07,305<    
+>RfcIoException:
+    message: no message received
+    Return code: RFCIO_ERROR_SYSERROR(5)<
+
+
+Error: [1] >Fri Nov 15 20:53:07,305<    RfcException: [lenovo08912|miniServer]
+    message: no message received
+    Return code: RFC_FAILURE(1)
+    error group: 102
+    key: RFC_ERROR_COMMUNICATION
+Exception raised by lenovo08912|miniServer
+
+Error:  >Fri Nov 15 20:53:27,231<    
+>RfcIoException:
+    message: no message received
+    Return code: RFCIO_ERROR_CANCELLED(23)<
+
+
+Error:  >Fri Nov 15 20:53:27,232<    
+>RfcIoException:
+    message: no message received
+    Return code: RFCIO_ERROR_CANCELLED(23)<
+
+
+Error:  >Fri Nov 15 20:53:27,232<    
+>RfcIoException:
+    message: no message received
+    Return code: RFCIO_ERROR_SYSERROR(5)<
+
+
+Error: [6] >Fri Nov 15 20:53:27,232<    RfcException: [lenovo08912|miniServer]
+    message: no message received
+    Return code: RFC_FAILURE(1)
+    error group: 102
+    key: RFC_ERROR_COMMUNICATION
+Exception raised by lenovo08912|miniServer
+
+Error:  >Fri Nov 15 20:53:27,232<    
+>RfcIoException:
+    message: no message received
+    Return code: RFCIO_ERROR_SYSERROR(5)<
+
+
+Error:  >Fri Nov 15 20:53:27,234<    
+>RfcIoException:
+    message: no message received
+    Return code: RFCIO_ERROR_CANCELLED(23)<
+
+
+Error:  >Fri Nov 15 20:53:27,234<    
+>RfcIoException:
+    message: no message received
+    Return code: RFCIO_ERROR_SYSERROR(5)<
+
+
+Error: [1] >Fri Nov 15 20:53:27,234<    RfcException: [lenovo08912|miniServer]
+    message: no message received
+    Return code: RFC_FAILURE(1)
+    error group: 102
+    key: RFC_ERROR_COMMUNICATION
+Exception raised by lenovo08912|miniServer
+
+Error:  >Fri Nov 15 20:53:27,234<    
+>RfcIoException:
+    message: no message received
+    Return code: RFCIO_ERROR_CANCELLED(23)<
+
+
+Error:  >Fri Nov 15 20:53:27,234<    
+>RfcIoException:
+    message: no message received
+    Return code: RFCIO_ERROR_SYSERROR(5)<
+
+
+Error: [3] >Fri Nov 15 20:53:27,234<    RfcException: [lenovo08912|miniServer]
+    message: no message received
+    Return code: RFC_FAILURE(1)
+    error group: 102
+    key: RFC_ERROR_COMMUNICATION
+Exception raised by lenovo08912|miniServer
+
+Error: [2] >Fri Nov 15 20:53:27,234<    RfcException: [lenovo08912|miniServer]
+    message: no message received
+    Return code: RFC_FAILURE(1)
+    error group: 102
+    key: RFC_ERROR_COMMUNICATION
+Exception raised by lenovo08912|miniServer
+
+Error:  >Fri Nov 15 20:53:39,939<    
+>RfcIoException:
+    message: no message received
+    Return code: RFCIO_ERROR_CANCELLED(23)<
+
+
+Error:  >Fri Nov 15 20:53:39,939<    
+>RfcIoException:
+    message: no message received
+    Return code: RFCIO_ERROR_SYSERROR(5)<
+
+
+Error: [1] >Fri Nov 15 20:53:39,939<    RfcException: [lenovo08912|miniServer]
+    message: no message received
+    Return code: RFC_FAILURE(1)
+    error group: 102
+    key: RFC_ERROR_COMMUNICATION
+Exception raised by lenovo08912|miniServer
+
+Error:  >Fri Nov 15 20:53:39,940<    
+>RfcIoException:
+    message: no message received
+    Return code: RFCIO_ERROR_CANCELLED(23)<
+
+
+Error:  >Fri Nov 15 20:53:39,940<    
+>RfcIoException:
+    message: no message received
+    Return code: RFCIO_ERROR_SYSERROR(5)<
+
+
+Error: [2] >Fri Nov 15 20:53:39,940<    RfcException: [lenovo08912|miniServer]
+    message: no message received
+    Return code: RFC_FAILURE(1)
+    error group: 102
+    key: RFC_ERROR_COMMUNICATION
+Exception raised by lenovo08912|miniServer
+
+Error:  >Fri Nov 15 20:53:39,945<    
+>RfcIoException:
+    message: no message received
+    Return code: RFCIO_ERROR_CANCELLED(23)<
+
+
+Error:  >Fri Nov 15 20:53:39,945<    
+>RfcIoException:
+    message: no message received
+    Return code: RFCIO_ERROR_SYSERROR(5)<
+
+
+Error: [3] >Fri Nov 15 20:53:39,945<    RfcException: [lenovo08912|miniServer]
+    message: no message received
+    Return code: RFC_FAILURE(1)
+    error group: 102
+    key: RFC_ERROR_COMMUNICATION
+Exception raised by lenovo08912|miniServer
+
+Error:  >Fri Nov 15 20:53:39,953<    
+>RfcIoException:
+    message: no message received
+    Return code: RFCIO_ERROR_CANCELLED(23)<
+
+
+Error:  >Fri Nov 15 20:53:39,953<    
+>RfcIoException:
+    message: no message received
+    Return code: RFCIO_ERROR_SYSERROR(5)<
+
+
+Error: [4] >Fri Nov 15 20:53:39,953<    RfcException: [lenovo08912|miniServer]
+    message: no message received
+    Return code: RFC_FAILURE(1)
+    error group: 102
+    key: RFC_ERROR_COMMUNICATION
+Exception raised by lenovo08912|miniServer
+
+Error:  >Fri Nov 15 20:53:47,922<    
+>RfcIoException:
+    message: no message received
+    Return code: RFCIO_ERROR_CANCELLED(23)<
+
+
+Error:  >Fri Nov 15 20:53:47,922<    
+>RfcIoException:
+    message: no message received
+    Return code: RFCIO_ERROR_SYSERROR(5)<
+
+
+Error: [3] >Fri Nov 15 20:53:47,923<    RfcException: [lenovo08912|miniServer]
+    message: no message received
+    Return code: RFC_FAILURE(1)
+    error group: 102
+    key: RFC_ERROR_COMMUNICATION
+Exception raised by lenovo08912|miniServer
+
+Error:  >Fri Nov 15 20:53:53,549<    
+>RfcIoException:
+    message: no message received
+    Return code: RFCIO_ERROR_CANCELLED(23)<
+
+
+Error:  >Fri Nov 15 20:53:53,549<    
+>RfcIoException:
+    message: no message received
+    Return code: RFCIO_ERROR_SYSERROR(5)<
+
+
+Error: [1] >Fri Nov 15 20:53:53,550<    RfcException: [lenovo08912|miniServer]
+    message: no message received
+    Return code: RFC_FAILURE(1)
+    error group: 102
+    key: RFC_ERROR_COMMUNICATION
+Exception raised by lenovo08912|miniServer
+
+Error:  >Fri Nov 15 20:53:53,551<    
+>RfcIoException:
+    message: no message received
+    Return code: RFCIO_ERROR_CANCELLED(23)<
+
+
+Error:  >Fri Nov 15 20:53:53,551<    
+>RfcIoException:
+    message: no message received
+    Return code: RFCIO_ERROR_SYSERROR(5)<
+
+
+Error: [5] >Fri Nov 15 20:53:53,552<    RfcException: [lenovo08912|miniServer]
+    message: no message received
+    Return code: RFC_FAILURE(1)
+    error group: 102
+    key: RFC_ERROR_COMMUNICATION
+Exception raised by lenovo08912|miniServer
+
+Error:  >Fri Nov 15 20:53:53,553<    
+>RfcIoException:
+    message: no message received
+    Return code: RFCIO_ERROR_CANCELLED(23)<
+
+
+Error:  >Fri Nov 15 20:53:53,553<    
+>RfcIoException:
+    message: no message received
+    Return code: RFCIO_ERROR_SYSERROR(5)<
+
+
+Error: [4] >Fri Nov 15 20:53:53,553<    RfcException: [lenovo08912|miniServer]
+    message: no message received
+    Return code: RFC_FAILURE(1)
+    error group: 102
+    key: RFC_ERROR_COMMUNICATION
+Exception raised by lenovo08912|miniServer
+
+Error:  >Fri Nov 15 20:53:53,558<    
+>RfcIoException:
+    message: no message received
+    Return code: RFCIO_ERROR_CANCELLED(23)<
+
+
+Error:  >Fri Nov 15 20:53:53,558<    
+>RfcIoException:
+    message: no message received
+    Return code: RFCIO_ERROR_SYSERROR(5)<
+
+
+Error: [2] >Fri Nov 15 20:53:53,559<    RfcException: [lenovo08912|miniServer]
+    message: no message received
+    Return code: RFC_FAILURE(1)
+    error group: 102
+    key: RFC_ERROR_COMMUNICATION
+Exception raised by lenovo08912|miniServer
+
+Error:  >Fri Nov 15 20:55:35,717<    
+>RfcIoException:
+    message: no message received
+    Return code: RFCIO_ERROR_CANCELLED(23)<
+
+
+Error:  >Fri Nov 15 20:55:35,717<    
+>RfcIoException:
+    message: no message received
+    Return code: RFCIO_ERROR_CANCELLED(23)<
+
+
+Error:  >Fri Nov 15 20:55:35,717<    
+>RfcIoException:
+    message: no message received
+    Return code: RFCIO_ERROR_SYSERROR(5)<
+
+
+Error: [2] >Fri Nov 15 20:55:35,718<    RfcException: [lenovo08912|miniServer]
+    message: no message received
+    Return code: RFC_FAILURE(1)
+    error group: 102
+    key: RFC_ERROR_COMMUNICATION
+Exception raised by lenovo08912|miniServer
+
+Error:  >Fri Nov 15 20:55:35,718<    
+>RfcIoException:
+    message: no message received
+    Return code: RFCIO_ERROR_CANCELLED(23)<
+
+
+Error:  >Fri Nov 15 20:55:35,718<    
+>RfcIoException:
+    message: no message received
+    Return code: RFCIO_ERROR_SYSERROR(5)<
+
+
+Error: [1] >Fri Nov 15 20:55:35,718<    RfcException: [lenovo08912|miniServer]
+    message: no message received
+    Return code: RFC_FAILURE(1)
+    error group: 102
+    key: RFC_ERROR_COMMUNICATION
+Exception raised by lenovo08912|miniServer
+
+Error:  >Fri Nov 15 20:55:35,718<    
+>RfcIoException:
+    message: no message received
+    Return code: RFCIO_ERROR_SYSERROR(5)<
+
+
+Error: [4] >Fri Nov 15 20:55:35,718<    RfcException: [lenovo08912|miniServer]
+    message: no message received
+    Return code: RFC_FAILURE(1)
+    error group: 102
+    key: RFC_ERROR_COMMUNICATION
+Exception raised by lenovo08912|miniServer
+
+Error:  >Fri Nov 15 20:55:35,726<    
+>RfcIoException:
+    message: no message received
+    Return code: RFCIO_ERROR_CANCELLED(23)<
+
+
+Error:  >Fri Nov 15 20:55:35,726<    
+>RfcIoException:
+    message: no message received
+    Return code: RFCIO_ERROR_SYSERROR(5)<
+
+
+Error: [3] >Fri Nov 15 20:55:35,726<    RfcException: [lenovo08912|miniServer]
+    message: no message received
+    Return code: RFC_FAILURE(1)
+    error group: 102
+    key: RFC_ERROR_COMMUNICATION
+Exception raised by lenovo08912|miniServer
+
